@@ -9,7 +9,6 @@ class IncrementorBloc implements Bloc {
 
   // Stream to handle output
   final StreamController<int> _counterController = StreamController<int>();
-  StreamSink<int> get _inAdd => _counterController.sink;
   Stream<int> get outCounter => _counterController.stream;
 
   // Stream to handle incoming actions
@@ -25,7 +24,7 @@ class IncrementorBloc implements Bloc {
 
   void _handleAction(data) {
     var newValue = _incrementorUseCase.updateCounter();
-    _inAdd.add(newValue);
+    _counterController.add(newValue);
   }
 
   void dispose() {
