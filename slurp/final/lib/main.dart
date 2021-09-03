@@ -1,98 +1,91 @@
 import 'package:flutter/material.dart';
+import 'package:slurp/places_repository.dart';
 
-import 'places.dart';
+import 'place.dart';
 
-void main() => runApp(new MyApp());
+void main() {
+  runApp(MyApp());
+}
 
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return new MaterialApp(
-      title: 'Slurp',
-      theme: new ThemeData(
-        primarySwatch: Colors.blue,
+    return MaterialApp(
+      title: 'Slurp App',
+      theme: ThemeData(
+        primarySwatch: Colors.deepOrange,
       ),
-      home: new MyHomePage(title: 'Slurp'),
+      home: MyHomePage(title: 'Slurp App'),
     );
   }
 }
 
 class MyHomePage extends StatefulWidget {
-  MyHomePage({Key key, this.title}) : super(key: key);
+  MyHomePage({Key? key, required this.title}) : super(key: key);
 
   final String title;
 
   @override
-  _MyHomePageState createState() => new _MyHomePageState();
+  _MyHomePageState createState() => _MyHomePageState();
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-
   List<Place> _places = <Place>[];
 
   @override
   void initState() {
     super.initState();
-
     listenForPlaces();
   }
 
-  void listenForPlaces() async {
-    var stream = await getPlaces();
-
-    stream.listen(
-      (place) => 
-        setState(
-          () => _places.add(place)
-        )
-      );
+  listenForPlaces() {
+    PlacesRepository.getPlaces("Enschede")
+        .listen((Place place) => setState(() => _places.add(place)));
   }
 
   @override
   Widget build(BuildContext context) {
-    return new Scaffold(
-      appBar: new AppBar(
-        title: new Text(widget.title),
+    return Scaffold(
+      appBar: AppBar(
+        title: Text(widget.title),
       ),
-      body: new Center(
-        child: new ListView(
-          children: _places.map((place) => new PlaceWidget(place)).toList(),
-        ),
+      body: ListView(
+        children: _places.map((place) => PlaceTile(place)).toList(),
       ),
     );
   }
 }
 
-class PlaceWidget extends StatelessWidget {
-  final Place place;
+class PlaceTile extends StatelessWidget {
+  const PlaceTile(this._place, {Key? key}) : super(key: key);
 
-  PlaceWidget(this.place);
-  
+  final Place _place;
+
+  Color getColor(double rating) {
+    return Color.lerp(Colors.red, Colors.green, rating / 5) ?? Colors.grey;
+  }
+
   @override
   Widget build(BuildContext context) {
-    var ratingColor = Color.lerp(Colors.red, Colors.green, place.rating / 5);
-
-    var listTile = new ListTile(
-      leading: new CircleAvatar(
-        child: new Text(place.rating.toString()),
-        backgroundColor: ratingColor,
+    return Dismissible(
+      key: Key(_place.name),
+      child: ListTile(
+        leading: CircleAvatar(
+          child: Text(_place.rating.toString()),
+          backgroundColor: getColor(_place.rating),
+        ),
+        title: Text(_place.name),
+        subtitle: Text(_place.address),
       ),
-      title: new Text(place.name),
-      subtitle: new Text(place.address),
-    );
-
-    return new Dismissible(
-      key: new Key(place.name),
-      background: new Container(color: Colors.green),
-      secondaryBackground: new Container(color: Colors.red),
-      onDismissed: (dir) {
-        if(dir == DismissDirection.startToEnd) {
-          print("You liked ${place.name}");
-        } else {
-          print("You didn't like ${place.name}");
-        }
+      background: Container(color: Colors.green),
+      secondaryBackground: Container(color: Colors.red),
+      onDismissed: (direction) {
+        String message = direction == DismissDirection.endToStart
+            ? 'Warm beer'
+            : 'Excellent cold beer';
+        ScaffoldMessenger.of(context)
+            .showSnackBar(SnackBar(content: Text(message)));
       },
-      child: listTile,
     );
   }
 }

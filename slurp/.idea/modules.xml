@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/slurp.iml" filepath="$PROJECT_DIR$/slurp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/slurp_android.iml" filepath="$PROJECT_DIR$/slurp_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/slurp.iml" filepath="$PROJECT_DIR$/.idea/slurp.iml" />
     </modules>
   </component>
 </project>
