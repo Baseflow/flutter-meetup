@@ -1,841 +1,2252 @@
 {
-    "html_attributions": [],
-    "results": [
-        {
-            "geometry": {
-                "location": {
-                    "lat": 52.221525,
-                    "lng": 6.895323999999999
+    "html_attributions" : [],
+    "next_page_token" : "Aap_uEDrMfvNrThl4Ql_sKx61HK_TSmLsLJfewgmuC0xanSCXNqZLZVPk45fj-i7EPPMZ_CN5xF9_usmvK0XC9RQBFUACyU5T5ySk9sZZBhhGtQoMZNbmZegxSiBDbvnLNOvwrJWNc3Gynz1bv3__3BQfwoUr9wCMowezIzPPdzMQcVC_AlQu-QmrjmTD6Cx39Dv9TbeZ6I_Cj3VHbGcBeICGHDjEo1GxcTdr_6KYlxpM3CQDuQnxdJOzzB9zX8JP--9ZaF8Qun--Cpfb5Nq-Y2kQ6u9XkV7XdAbRMeSDYgjx5U7ACXv4ZFUMPgNtVdVNXMqN3GomswbQGwZHHnxK435cTgp7cCpgOufLtqRVarUSmbDSpFdlhMncA5HbpdZSgfk7ZS8QCLMaRfmPrpai7mgNlVgKV3DxW4nOqsBQEi3sJUy2w_SyUk57M88yLWyZR2u5EBsvsENIQWAV0T58m3RV04-Qm3Ntd9T5fChCQZ3a1-bZ5MXZzV6YJLsUa656EAJJ-200Uk15hOls0FW-h5C_K5o1TTUcMfXwCx_9MzMaSXoeh46DXyIiQ-5GG_z9YdT3WEPrkGRDnKi-ie-9yPevBKd-lFoCftzyeP0QZUBCCmehC-CkEpF1Z4B2s_EanfSQXe7dVqFYsktEi3j9ZXd4yEmrHT6kGSP1G3Cn8FnyjNOhSkHBRucfuLnBuFkltSJHDfxXtkovWE9ttIoQx3YzOJFYs2HV8LBofRn6nR61fpUCogYq9jzwe-yBQr1pws9hlVdEts0G2gl9mOO3RUyo2f2_f6YOqKMgawg0fjnmjtg45pVn2Gy_oWmglM_8dx_gw",
+    "results" : [
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 52.2214713,
+                "lng" : 6.895298200000001
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 52.2222944302915,
+                   "lng" : 6.896223580291503
                 },
-                "viewport": {
-                    "northeast": {
-                        "lat": 52.2231135302915,
-                        "lng": 6.897867100000001
-                    },
-                    "southwest": {
-                        "lat": 52.2204155697085,
-                        "lng": 6.894476299999999
-                    }
+                "southwest" : {
+                   "lat" : 52.21959646970851,
+                   "lng" : 6.893525619708498
                 }
-            },
-            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-            "id": "6e274492c5dfc4100a68d47e70d8f69e1bbef40a",
-            "name": "Fellini Enschede",
-            "opening_hours": {
-                "open_now": true
-            },
-            "photos": [
-                {
-                    "height": 3024,
-                    "html_attributions": [
-                        "<a href=\"https://maps.google.com/maps/contrib/109213220123895357242/photos\">Martijn Hoppenbrouwer</a>"
-                    ],
-                    "photo_reference": "CmRaAAAAPhSAiB4-VuS-AmUdRxjBUIooQJg68zdQyLRmPJGOB7G_2xh9deq3lcI9ChPnlaTZPmQtUQ_uBqWenNLif0Okqqr5ErAGPBlhoIpcbW6iBt0Uto1qjOjRPuWTRrrL_imlEhDjC25hFY3jKzMU04ZbXUaqGhQh13kxVLaYj-aNxDnsqWfRvfWFBA",
-                    "width": 4032
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "Fellini Enschede",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 3096,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/115645561171844878684\"\u003eBianca Van Vliet\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEBKjfEcsQ5Ek9hOkx2VIV6DruWPzaUfWI-S8_S0OJDdT0i2PTrCwsWlmyXxWDCoOqM6Tdj3LGDyPzJLxvNznxZEAle-a_42RQt1abXqTOFCcK9L9WQP2uoUcBkqs-YFQQg3NVhqkKRyHuZBOpYQZ4gNd8ZfOA6KQ4CuT2HXEuTeSL1i",
+                "width" : 4128
+             }
+          ],
+          "place_id" : "ChIJ8XcydnMUuEcRCFdOhmTnLsY",
+          "plus_code" : {
+             "compound_code" : "6VCW+H4 Enschede, Netherlands",
+             "global_code" : "9F486VCW+H4"
+          },
+          "price_level" : 2,
+          "rating" : 4.1,
+          "reference" : "ChIJ8XcydnMUuEcRCFdOhmTnLsY",
+          "scope" : "GOOGLE",
+          "types" : [
+             "night_club",
+             "bar",
+             "restaurant",
+             "food",
+             "point_of_interest",
+             "establishment"
+          ],
+          "user_ratings_total" : 996,
+          "vicinity" : "Bolwerkstraat 2, Enschede"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 52.22954499999999,
+                "lng" : 6.871599700000001
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 52.2308939802915,
+                   "lng" : 6.872948680291503
+                },
+                "southwest" : {
+                   "lat" : 52.2281960197085,
+                   "lng" : 6.870250719708499
                 }
-            ],
-            "place_id": "ChIJ8XcydnMUuEcRCFdOhmTnLsY",
-            "plus_code": {
-                "compound_code": "6VCW+J4 Enschede, Netherlands",
-                "global_code": "9F486VCW+J4"
-            },
-            "rating": 4.1,
-            "reference": "CmRSAAAAtmshr7ZCjO5X5Zb8ZHNGgek6CzPUBXHBEtP7AR_A8vg10GMpcMCdk_S1Y141Nv5G3f7ed9XFPaSjU6aR_lHoJ6PwNx3lQL7HJf9ai9G2aExbs5KHuwacwTqUV3ocI1RkEhDWe_4cklgqwe94iyEOg4fNGhSZL88S4ZAde2kWm0VAwm8gObCCjg",
-            "scope": "GOOGLE",
-            "types": [
-                "night_club",
-                "bar",
-                "restaurant",
-                "food",
-                "point_of_interest",
-                "establishment"
-            ],
-            "vicinity": "2, Bolwerkstraat, Enschede"
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "Eetcafé De Fusting",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 4032,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/109448741096212752298\"\u003eEetcafé De Fusting\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uECNxCo-25o4n26SSrH3XzDXqOGc9qNbaSUE3hxFX3s8LetTmokaN6J0_tLOs62f1F4SeMPzhnGChDpKl-nmNYcfUx9j88DU1ovwA94x_D5hw-LuuMQjwpVGABaRDTX5Ga4Mv_NblLGVNBI1KIO1hysXCWc1qlDaowwK8hhiThafQeiX",
+                "width" : 3024
+             }
+          ],
+          "place_id" : "ChIJ0d2IN-wTuEcROi-zedRztjU",
+          "plus_code" : {
+             "compound_code" : "6VHC+RJ Enschede, Netherlands",
+             "global_code" : "9F486VHC+RJ"
+          },
+          "price_level" : 1,
+          "rating" : 4.5,
+          "reference" : "ChIJ0d2IN-wTuEcROi-zedRztjU",
+          "scope" : "GOOGLE",
+          "types" : [
+             "restaurant",
+             "cafe",
+             "bar",
+             "food",
+             "point_of_interest",
+             "establishment"
+          ],
+          "user_ratings_total" : 635,
+          "vicinity" : "Hengelosestraat 281, Enschede"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 52.2212217,
+                "lng" : 6.8954239
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 52.2221696302915,
+                   "lng" : 6.896286430291503
+                },
+                "southwest" : {
+                   "lat" : 52.2194716697085,
+                   "lng" : 6.893588469708498
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+          "name" : "Molly Malone Irish Pub",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 720,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/104811198080536545410\"\u003eMolly Malone Irish Pub\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEDZsHuzdtaPqGfonpUQZtiddWuudkG5gY8Q8yrYis7XYKJaoKanp9JJf4qReiKGcRPXZFZwGxxu7HPhNgM94RIgbwrPR96JgvA7eTL3ECwJ42sZdXSQBvfRb18mYx5j3YIekXyFmidiMj3r9YMahk3R2G-L9lcKkBfzwhZIKbeg1Y3Y",
+                "width" : 1083
+             }
+          ],
+          "place_id" : "ChIJvU66nXMUuEcRIvESgCSJCX0",
+          "plus_code" : {
+             "compound_code" : "6VCW+F5 Enschede, Netherlands",
+             "global_code" : "9F486VCW+F5"
+          },
+          "price_level" : 2,
+          "rating" : 4.5,
+          "reference" : "ChIJvU66nXMUuEcRIvESgCSJCX0",
+          "scope" : "GOOGLE",
+          "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 850,
+          "vicinity" : "Oude Markt 11, Enschede"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 52.223028,
+                "lng" : 6.9036739
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 52.2243769802915,
+                   "lng" : 6.905022880291503
+                },
+                "southwest" : {
+                   "lat" : 52.2216790197085,
+                   "lng" : 6.902324919708499
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "icon_background_color" : "#7B9EB0",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+          "name" : "Cube Bouldergym",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3000,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/109150945042455992702\"\u003eJeroen Katgert\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uED1q8c2V3XsmwG13-NSzcvkWppoJDAdXMxT2PsPnptnzlAOMfxXsCjzQAetxSECytwP4lkkkuvwOkuPJiu50dpTTLzXqp7hZOJBPuTsNFpuTYGI9UQMxp1Os_EdP9CzQXTW68drfED5iMR43sry-Ay7un5DZAfLElrrbJeCG5Fu1_8A",
+                "width" : 4000
+             }
+          ],
+          "place_id" : "ChIJNTp0OG0UuEcRBFqT4DfD7Ws",
+          "plus_code" : {
+             "compound_code" : "6WF3+6F Enschede, Netherlands",
+             "global_code" : "9F486WF3+6F"
+          },
+          "rating" : 4.8,
+          "reference" : "ChIJNTp0OG0UuEcRBFqT4DfD7Ws",
+          "scope" : "GOOGLE",
+          "types" : [ "bar", "gym", "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 276,
+          "vicinity" : "Hoge Bothofstraat 49, Enschede"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 52.2206085,
+                "lng" : 6.8965473
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 52.2218321802915,
+                   "lng" : 6.897567600000001
+                },
+                "southwest" : {
+                   "lat" : 52.2191342197085,
+                   "lng" : 6.8934864
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+          "name" : "Stichting Sociëteit \"Tempus Ruit Amicitia Manet\"",
+          "photos" : [
+             {
+                "height" : 2620,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/115991351429709472495\"\u003eMerle Ewert\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uECcsDhuCYHPa2fitWN3jp5CpwhnqJPBK3rCoIwTCQ_te0gRXmHuF2NUB4Evk7jW_6VSRWlxr-RbTLI3PP_lgR5F3442ThBPa9ecY2byFFJZ-l0j0eeF0xbLou6QwAqqaGoKWVl6RqMY3vyLPEjuonzZJslGc6yAVZQ1fhmqqyp5lHvl",
+                "width" : 4656
+             }
+          ],
+          "place_id" : "ChIJzwrOunMUuEcRptYYt5PN9E8",
+          "plus_code" : {
+             "compound_code" : "6VCW+6J Enschede, Netherlands",
+             "global_code" : "9F486VCW+6J"
+          },
+          "rating" : 4.4,
+          "reference" : "ChIJzwrOunMUuEcRptYYt5PN9E8",
+          "scope" : "GOOGLE",
+          "types" : [ "bar", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 20,
+          "vicinity" : "Oude Markt 24, Enschede"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 52.22036730000001,
+                "lng" : 6.8957195
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 52.2216598802915,
+                   "lng" : 6.896468880291503
+                },
+                "southwest" : {
+                   "lat" : 52.2189619197085,
+                   "lng" : 6.893770919708499
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+          "name" : "Café Friends Enschede",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 3024,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/102275171518289252016\"\u003eWinfried Ostendorff\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uECo6c2ayOmlx_DfirieoKj5-TCDiCBFbgAN78gpF10pjr1YxPF_lQfjbSY0leq4Y3yyUDqL5X86Znayvw460Wyh2ArqUDWNHjeUqYDwrviItclDoZGG_kxTas2RwQ47odF3ZANh5X2VrWUyY2dNoxfLVibGCsKF8lnSuKtjUJjPMANj",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJxS4PlnMUuEcRnwamq1Gc_eI",
+          "plus_code" : {
+             "compound_code" : "6VCW+47 Enschede, Netherlands",
+             "global_code" : "9F486VCW+47"
+          },
+          "price_level" : 2,
+          "rating" : 4.3,
+          "reference" : "ChIJxS4PlnMUuEcRnwamq1Gc_eI",
+          "scope" : "GOOGLE",
+          "types" : [ "cafe", "bar", "food", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 543,
+          "vicinity" : "Langestraat 62, Enschede"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 52.2193267,
+                "lng" : 6.89485
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 52.2211223802915,
+                   "lng" : 6.895984330291501
+                },
+                "southwest" : {
+                   "lat" : 52.2184244197085,
+                   "lng" : 6.893286369708497
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+          "name" : "(Café Stonewall) S.H.H.T.",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 901,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/113601719970933362828\"\u003e(Café Stonewall) S.H.H.T.\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEAUzXP-tkJV1-jSO2kspFfRVYqSTzu1qzCfG_uK7qZY-o4OGn9-akMnIzzAUgzVPIKoapoy36L9aSB4Yt-ggT16W-AqQuuU1-1qMCV1KIrBgdCThbltaCnxmSZBSoF5ujxIWSFl3iGFlv3_wU7Dcfe6Nfdvfvaps0_1itpQUlj38XRa",
+                "width" : 1600
+             }
+          ],
+          "place_id" : "ChIJi5Rz5XMUuEcRHaX9kEbhynY",
+          "plus_code" : {
+             "compound_code" : "6V9V+PW Enschede, Netherlands",
+             "global_code" : "9F486V9V+PW"
+          },
+          "rating" : 4.8,
+          "reference" : "ChIJi5Rz5XMUuEcRHaX9kEbhynY",
+          "scope" : "GOOGLE",
+          "types" : [ "bar", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 12,
+          "vicinity" : "Walstraat 12-14, Enschede"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 52.22049,
+                "lng" : 6.896572399999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 52.22177623029149,
+                   "lng" : 6.897598449999998
+                },
+                "southwest" : {
+                   "lat" : 52.2190782697085,
+                   "lng" : 6.893494250000001
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+          "name" : "Society Foundation Asterion",
+          "photos" : [
+             {
+                "height" : 1365,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/103253303996367376839\"\u003eStichting Sociëteit Asterion\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEBxgvj-eEvgzXzAvR-RRVajpDVJhxOstKoqapZj-qQtSkqhUnAUZ0a8-yuHI9BiGI-aCwX8PmWHQBybmmqqYLkMY2MPsZD99vwda_QSwRDqcwDeUuQ7XTx9G8KZLLrFPWHUfe0nUKhel352jmi_s8TucVJL8TABra90N3EVkYpSPHMq",
+                "width" : 2048
+             }
+          ],
+          "place_id" : "ChIJzwrOunMUuEcRQkWcduN4VcM",
+          "plus_code" : {
+             "compound_code" : "6VCW+5J Enschede, Netherlands",
+             "global_code" : "9F486VCW+5J"
+          },
+          "price_level" : 1,
+          "rating" : 4.8,
+          "reference" : "ChIJzwrOunMUuEcRQkWcduN4VcM",
+          "scope" : "GOOGLE",
+          "types" : [ "bar", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 81,
+          "vicinity" : "Oude Markt 24, Enschede"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 52.22157219999999,
+                "lng" : 6.895088299999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 52.22292118029149,
+                   "lng" : 6.896437280291502
+                },
+                "southwest" : {
+                   "lat" : 52.22022321970849,
+                   "lng" : 6.893739319708497
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+          "name" : "Santé",
+          "photos" : [
+             {
+                "height" : 3648,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/110736674210281719012\"\u003eJosbert Lonnee\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEAvQyFK2eCZMFKp8bo-0aKM5GT95JTunn9lHNrILAt_I6WQVEtcvISoBD3VUcWojPd2tqszdZRS5KB2lC2Y2yNNt09Rl6QcKgDiPeDfgSbYxUcik3y8EMPSrzbI2_8D4oG1_IjGakmCkqRizfLS9HNkqYyJdA-WW-lkv21qk7GsOeU6",
+                "width" : 5472
+             }
+          ],
+          "place_id" : "ChIJBSV4eXMUuEcRmAg7Qvxz1I4",
+          "plus_code" : {
+             "compound_code" : "6VCW+J2 Enschede, Netherlands",
+             "global_code" : "9F486VCW+J2"
+          },
+          "rating" : 3.8,
+          "reference" : "ChIJBSV4eXMUuEcRmAg7Qvxz1I4",
+          "scope" : "GOOGLE",
+          "types" : [ "bar", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 34,
+          "vicinity" : "Enschede"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 52.22075100000001,
+                "lng" : 6.894755399999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 52.2219649802915,
+                   "lng" : 6.896114580291502
+                },
+                "southwest" : {
+                   "lat" : 52.2192670197085,
+                   "lng" : 6.893416619708497
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+          "name" : "Foodbar BLUFF",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 3024,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/114362262925051639056\"\u003e스텝플33\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEDYPFFfuKYOhCm1UODqkbqPz4wFApPrhTTN1RRLj8XebviZM-Y0w8gL-5w2vuVAdbxQl1FDsc-23Z5EtpcB_ILZsnx4dz-SjGjKEXYuHT5JcWGy7VdmgpeN0GgvyZi20UtVJOSl9rbN99Tb9iLGV38o3bosULXJHUwCXutYhtoDOvAO",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJWaCIhXMUuEcRf95GyiSiNsg",
+          "plus_code" : {
+             "compound_code" : "6VCV+8W Enschede, Netherlands",
+             "global_code" : "9F486VCV+8W"
+          },
+          "price_level" : 2,
+          "rating" : 4.3,
+          "reference" : "ChIJWaCIhXMUuEcRf95GyiSiNsg",
+          "scope" : "GOOGLE",
+          "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 508,
+          "vicinity" : "Oude Markt 6, Enschede"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 52.221661,
+                "lng" : 6.895061
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 52.22340353029151,
+                   "lng" : 6.896856480291501
+                },
+                "southwest" : {
+                   "lat" : 52.22070556970851,
+                   "lng" : 6.894158519708498
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+          "name" : "the Baron",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 1080,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/112903106794698373073\"\u003eDe Mini Bar\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEBK-3UHwvhtu1JPa_TzEXvESkQH8bQNctT3OxRNbc96XvgnvRkybTivPSv8C0AzaWo0Q8YERMGBI35ba7OFDo-ZwqXnyXKfGGm_GJ0skWzpDATxSJd25OPW-Ssmrhjn4r_41jdsQlp5YNnSayPdUWfnx17YMflJCRGKjFFoslgHM-0K",
+                "width" : 1080
+             }
+          ],
+          "place_id" : "ChIJRSKbeXMUuEcRE3nIV57xRWA",
+          "plus_code" : {
+             "compound_code" : "6VCW+M2 Enschede, Netherlands",
+             "global_code" : "9F486VCW+M2"
+          },
+          "rating" : 4.6,
+          "reference" : "ChIJRSKbeXMUuEcRE3nIV57xRWA",
+          "scope" : "GOOGLE",
+          "types" : [ "bar", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 87,
+          "vicinity" : "Bolwerkstraat 7, Enschede"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 52.2205831,
+                "lng" : 6.8965441
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 52.2218110302915,
+                   "lng" : 6.897557900000001
+                },
+                "southwest" : {
+                   "lat" : 52.21911306970851,
+                   "lng" : 6.893502699999998
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+          "name" : "Stichting Sociëteit Antigoon",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "place_id" : "ChIJS23FunMUuEcRczEyIay1guU",
+          "plus_code" : {
+             "compound_code" : "6VCW+6J Enschede, Netherlands",
+             "global_code" : "9F486VCW+6J"
+          },
+          "price_level" : 1,
+          "rating" : 4.9,
+          "reference" : "ChIJS23FunMUuEcRczEyIay1guU",
+          "scope" : "GOOGLE",
+          "types" : [ "bar", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 32,
+          "vicinity" : "Oude Markt 24, Enschede"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 52.22087669999999,
+                "lng" : 6.896658799999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 52.22199713029149,
+                   "lng" : 6.897762699999999
+                },
+                "southwest" : {
+                   "lat" : 52.21929916970849,
+                   "lng" : 6.893347100000002
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+          "name" : "Café De Pimpelaar",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 2592,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/108680689086965278459\"\u003eCafe De Pimpelaar\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEDXWxYeyszhHVY9jrHBRXfZkri6b7hVyeuep23ksOwoMwX6Cm1dS93WcUyU4VGoAyRkr2SwVSsEP1RGCK7H_0oJrAV8Z9PQAkooxXmTV0_O20MUgh5zEDy9g4foCdUW4tElUJ-rjeu-5hcLgzHnSeuFfVBu3f6GiRMwmwP4IIrwCZUE",
+                "width" : 3888
+             }
+          ],
+          "place_id" : "ChIJVRrApXMUuEcRkgcK8Dr5IoM",
+          "plus_code" : {
+             "compound_code" : "6VCW+9M Enschede, Netherlands",
+             "global_code" : "9F486VCW+9M"
+          },
+          "price_level" : 2,
+          "rating" : 4.4,
+          "reference" : "ChIJVRrApXMUuEcRkgcK8Dr5IoM",
+          "scope" : "GOOGLE",
+          "types" : [ "cafe", "bar", "food", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 167,
+          "vicinity" : "Oude Markt 22, Enschede"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 52.2205556,
+                "lng" : 6.8966667
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 52.2218136802915,
+                   "lng" : 6.8977399
+                },
+                "southwest" : {
+                   "lat" : 52.2191157197085,
+                   "lng" : 6.893447100000001
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+          "name" : "De Beiaard",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 539,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/101975008906804907536\"\u003ePeter DeBrass\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEBCmnG0Vc4f_AN-9QeiOoX-ok_fbt1sa-TX3stttoCpV9NRQCdDSuYYLVktzrYbb7T4gN_NiPJbk7c82XapvyZ63Tlrf3EdWSnpdXu9KPWtgUxH6JaItFJF3k7SeKRnLS5b3Ff9gWRAw_YKix_3pdr9zhkQJE4QIST8xwxG7G3lGDhc",
+                "width" : 960
+             }
+          ],
+          "place_id" : "ChIJzwrOunMUuEcR-HRXmys5sEk",
+          "plus_code" : {
+             "compound_code" : "6VCW+6M Enschede, Netherlands",
+             "global_code" : "9F486VCW+6M"
+          },
+          "price_level" : 2,
+          "rating" : 4.5,
+          "reference" : "ChIJzwrOunMUuEcR-HRXmys5sEk",
+          "scope" : "GOOGLE",
+          "types" : [ "cafe", "bar", "food", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1250,
+          "vicinity" : "Oude Markt 24, Enschede"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 52.215978,
+                "lng" : 6.8711016
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 52.2172827302915,
+                   "lng" : 6.872496880291502
+                },
+                "southwest" : {
+                   "lat" : 52.2145847697085,
+                   "lng" : 6.869798919708498
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+          "name" : "'t Kraamcentrum",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 4160,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/107143027389819612697\"\u003eMilton Tsie\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEDHz44Mp31o-5_i04Mqn1n01MFXz0za1ewg5VMnN-38ibNZ_sr2QtTgIhwRHJ5RU34SM-VFPD6m6JV8HdEl2--6wnArRZaR0yly2Yw13d3bznSvcGKWrMET0fDyjaPU2rrVL3WC4jvRYjf1v87leZAdgXaEN6GlfNjBjt8PKN7m6CSF",
+                "width" : 3120
+             }
+          ],
+          "place_id" : "ChIJlQLRFZATuEcRJo4kNi8qCcM",
+          "plus_code" : {
+             "compound_code" : "6V8C+9C Enschede, Netherlands",
+             "global_code" : "9F486V8C+9C"
+          },
+          "price_level" : 1,
+          "rating" : 4.3,
+          "reference" : "ChIJlQLRFZATuEcRJo4kNi8qCcM",
+          "scope" : "GOOGLE",
+          "types" : [ "bar", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 15,
+          "vicinity" : "Elferinksweg 6, Enschede"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 52.2198585,
+                "lng" : 6.8963348
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 52.2213927302915,
+                   "lng" : 6.897271300000001
+                },
+                "southwest" : {
+                   "lat" : 52.2186947697085,
+                   "lng" : 6.893603300000001
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+          "name" : "Rocks",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 3024,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/102567319387982842909\"\u003eStefan\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEBL83vVsXzi6VjSyESE9FS_sZy1kR9tuXy-gfIzrCXcPFsUizOHm84qW_wioeasYt2JYml5VR-UQRZVh4oqFuuLoPIp6l6MoITwbe3kQSGaiyF0XLAG9Da3CHDmLGwnj8ae3gAy4mVrVWSMz2nnYc5rt_tZMPFeLewRmrdynTjBMU3A",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJseykx3MUuEcRJ6idFuop1UQ",
+          "plus_code" : {
+             "compound_code" : "6V9W+WG Enschede, Netherlands",
+             "global_code" : "9F486V9W+WG"
+          },
+          "price_level" : 2,
+          "rating" : 4.7,
+          "reference" : "ChIJseykx3MUuEcRJ6idFuop1UQ",
+          "scope" : "GOOGLE",
+          "types" : [ "bar", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 710,
+          "vicinity" : "Hofstraat 3, Enschede"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 52.2204578,
+                "lng" : 6.895707799999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 52.22174558029149,
+                   "lng" : 6.896461480291501
+                },
+                "southwest" : {
+                   "lat" : 52.21904761970849,
+                   "lng" : 6.893763519708497
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "CopaCabana Steakhouse & Tapasrestaurant",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 662,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/111487753998640147193\"\u003eCopaCabana Steakhouse &amp; Tapasrestaurant\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uECJZYfkwSUa4mVgpOOIWv-uZb3KLqSHPFg3xXYJWsJCK3tMiMGTJOnl3AoSHECiQ_BcPAr8zFd_GWUaX2EebFAYJn6yxPQtzOMlrzcN83ITFo3EXZl9ZMQr80PQmQ6txuK8T_OS5NYf1A9VBQ7iYvSV6-uK5eKg_GHHLfCaJN519MjA",
+                "width" : 1387
+             }
+          ],
+          "place_id" : "ChIJMbkXlnMUuEcR6ZE80QtpGZ8",
+          "plus_code" : {
+             "compound_code" : "6VCW+57 Enschede, Netherlands",
+             "global_code" : "9F486VCW+57"
+          },
+          "price_level" : 2,
+          "rating" : 4,
+          "reference" : "ChIJMbkXlnMUuEcR6ZE80QtpGZ8",
+          "scope" : "GOOGLE",
+          "types" : [ "restaurant", "bar", "food", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 465,
+          "vicinity" : "Oude Markt 31, Enschede"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 52.2214196,
+                "lng" : 6.8947446
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 52.2222713802915,
+                   "lng" : 6.895953930291503
+                },
+                "southwest" : {
+                   "lat" : 52.2195734197085,
+                   "lng" : 6.893255969708498
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+          "name" : "Strand",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 1836,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/114849108363789791391\"\u003ebrenda verheul\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEDAsOL5kyaVEijsnojbw-P6aAtcp7Kcs7lYltuPHXtkK8ARmOa7OsjgU7DNVKu3AyQoDhMsm3_afb-aDuk88h5lE9lfLWYOqI6lhMsi886r1xMNt22dAlSzv57Nhw0qKX3CI1EMGZnrBq_Hdzr9Ut0nx9S4o7mDF8Vz9VeRWh5Bi0B_",
+                "width" : 3264
+             }
+          ],
+          "place_id" : "ChIJAQRWf3MUuEcRz_8lHJrlMfo",
+          "plus_code" : {
+             "compound_code" : "6VCV+HV Enschede, Netherlands",
+             "global_code" : "9F486VCV+HV"
+          },
+          "rating" : 3.8,
+          "reference" : "ChIJAQRWf3MUuEcRz_8lHJrlMfo",
+          "scope" : "GOOGLE",
+          "types" : [ "bar", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 23,
+          "vicinity" : "Stadsgravenstraat 15, Enschede"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 52.2280998,
+                "lng" : 6.899480799999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 52.2294798302915,
+                   "lng" : 6.901209530291502
+                },
+                "southwest" : {
+                   "lat" : 52.2267818697085,
+                   "lng" : 6.898511569708498
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+          "name" : "the Vluchte",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 4000,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/117653135794529464842\"\u003ekevin schumacher\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uECuVUR2q3_OjNNXZAeFsIsEOBrrCqFAWKSfHzhmyxIghYviO--ntBaCEkOUbTXr7ckVF2X6XECxk1VGgwmJ-9gpex-RONdbFEy_-GhBUl0edl8-9EdqW9iN-xXFlyfaY8Z0LJNukdRQUpVQIv9cqtU3r4r8MUAbeWHQW1rqIKb1HxYx",
+                "width" : 1844
+             }
+          ],
+          "place_id" : "ChIJAfC968ETuEcRfw3Av__a-4A",
+          "plus_code" : {
+             "compound_code" : "6VHX+6Q Enschede, Netherlands",
+             "global_code" : "9F486VHX+6Q"
+          },
+          "rating" : 4.4,
+          "reference" : "ChIJAfC968ETuEcRfw3Av__a-4A",
+          "scope" : "GOOGLE",
+          "types" : [ "bar", "cafe", "food", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 141,
+          "vicinity" : "Oldenzaalsestraat 153a, Enschede"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 52.2213218,
+                "lng" : 6.8963231
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 52.22299143029149,
+                   "lng" : 6.898008130291503
+                },
+                "southwest" : {
+                   "lat" : 52.2202934697085,
+                   "lng" : 6.895310169708498
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+          "name" : "San Remo",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 1000,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/104230814072656546042\"\u003eJay Tromp\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEBH4n3ML__c1cCZDLV-3-T09s2j3wwK8D7B5yEiyREPXyK7WyXPxFR6xB9V9KrEkYra6Xfd-AZHufzwFQ7dsYxYF6U4hmvd8ajlf6olFG4RFhAtl8o7rf2rRcN-pqjw0RpzTRENiz6L9ClcbIDJSx4jx2uOaxk6MzFHZgYRjoN_jqHM",
+                "width" : 1500
+             }
+          ],
+          "place_id" : "ChIJR11sCnMUuEcRoI3carq7Rl0",
+          "plus_code" : {
+             "compound_code" : "6VCW+GG Enschede, Netherlands",
+             "global_code" : "9F486VCW+GG"
+          },
+          "price_level" : 2,
+          "rating" : 4.6,
+          "reference" : "ChIJR11sCnMUuEcRoI3carq7Rl0",
+          "scope" : "GOOGLE",
+          "types" : [ "bar", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 86,
+          "vicinity" : "Stadsgravenstraat 53, Enschede"
+       },
+       {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 52.2262131,
+              "lng" : 6.891979900000001
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 52.2275620802915,
+                 "lng" : 6.893328880291504
+              },
+              "southwest" : {
+                 "lat" : 52.2248641197085,
+                 "lng" : 6.890630919708499
+              }
+           }
         },
-        {
-            "geometry": {
-                "location": {
-                    "lat": 52.22302359999999,
-                    "lng": 6.893403099999998
-                },
-                "viewport": {
-                    "northeast": {
-                        "lat": 52.22446798029149,
-                        "lng": 6.894722280291502
-                    },
-                    "southwest": {
-                        "lat": 52.22177001970849,
-                        "lng": 6.892024319708497
-                    }
-                }
-            },
-            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-            "id": "a18ff7853e5f6eb545fcb93fd55c85cf915bd301",
-            "name": "'T Bölke",
-            "photos": [
-                {
-                    "height": 1152,
-                    "html_attributions": [
-                        "<a href=\"https://maps.google.com/maps/contrib/115418315198000399419/photos\">&#39;t Bölke</a>"
-                    ],
-                    "photo_reference": "CmRaAAAAhRaUOljchj6XFtlC7sB-93l4pfcEMTClAG6pZbPkE4KQ64Y9kPY0cAZ6uozFJdD_aB7BHPfIbhY2EU-47b8v_lWjaZcaQX_YIhh1Hqbz9tMCv-brLfxYzykbpfYMVaa2EhD_9RqnDMDDYjzR_lJvYW_UGhQi4dnTzDTgIiaRHNVrlmfv28qRvw",
-                    "width": 2048
-                }
-            ],
-            "place_id": "ChIJX2MAvHQUuEcRY9HmmyKX1oI",
-            "plus_code": {
-                "compound_code": "6VFV+69 Enschede, Netherlands",
-                "global_code": "9F486VFV+69"
-            },
-            "rating": 4.1,
-            "reference": "CmRSAAAAZ-3uQbzsSLjQRshhJ9L6J7iOOMV2T7HL-ELqrufGKXflCbVHaEDD3-eNoAvVsF0k4muHAQT-rQaf-bYPFuy3BafMyLzMnscR1cTuCVwpLvo-Gh9O62PJmhMtSqbcJvoCEhDVHVVCEIxrmEhHY96ucRlHGhTAU1zn9KcPxRsZslAvinU1mBmtSQ",
-            "scope": "GOOGLE",
-            "types": [
-                "night_club",
-                "bar",
-                "point_of_interest",
-                "establishment"
-            ],
-            "vicinity": "Molenstraat 6-8, Enschede"
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "Cafe de Brouwerij",
+        "opening_hours" : {
+           "open_now" : false
         },
-        {
-            "geometry": {
-                "location": {
-                    "lat": 52.2210416,
-                    "lng": 6.8960838
-                },
-                "viewport": {
-                    "northeast": {
-                        "lat": 52.2228718302915,
-                        "lng": 6.897900580291502
-                    },
-                    "southwest": {
-                        "lat": 52.2201738697085,
-                        "lng": 6.895202619708498
-                    }
-                }
-            },
-            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
-            "id": "7de2b2ab13b0d1cfbff758a7ff6244d820fb497b",
-            "name": "Aspen Valley Enschede",
-            "opening_hours": {
-                "open_now": false
-            },
-            "photos": [
-                {
-                    "height": 2976,
-                    "html_attributions": [
-                        "<a href=\"https://maps.google.com/maps/contrib/118348794355190300469/photos\">Anne Heining</a>"
-                    ],
-                    "photo_reference": "CmRaAAAAQr4RwzXV6HNKwDuroWsIQeZoixLs4iF2G_N6TaOhdYe2B8fq7VWY1IQKOSTnPm5mQ9urHQailrtQ_Qv-Lax-OPaazK3EloUTCQlDlx4S0jp_wdlV5FgkibsPeBwoCTCrEhDjYFgjaNsYag7BzGYhfQGeGhS4uQQRuES6q-HtEiCZBveIYagizQ",
-                    "width": 3968
-                }
-            ],
-            "place_id": "ChIJcXrpoXMUuEcRdwYsnMcptg0",
-            "plus_code": {
-                "compound_code": "6VCW+CC Enschede, Netherlands",
-                "global_code": "9F486VCW+CC"
-            },
-            "rating": 3.4,
-            "reference": "CmRRAAAA_3RsFxSS1R7RzBzq-uqdp12-TqlBpNgRA_WoNhj4zG9Thn_6H-_s3qg6VGiK2luDeA7_MQh7XzxGKrZDh-2WG6-wtKENLYHtC3nmXcOXCCxOzAQNke-yS6BWYBQGxc4LEhCUAcJXtzi8Z2TCkZl-379dGhQeiJAEMXn8DOl1v7ZgZRc2N8Ybkg",
-            "scope": "GOOGLE",
-            "types": [
-                "cafe",
-                "night_club",
-                "food",
-                "point_of_interest",
-                "establishment"
-            ],
-            "vicinity": "18, Oude Markt, Enschede"
+        "photos" : [
+           {
+              "height" : 3024,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/108569199753162547756\"\u003eBZ\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECrFsTsic0AeMCdN8SG0XcRbAC4-TWVSpK2Kh6ey28QujZrqyeHVpOtuE3iT0B2odeKz3RItMkAEF1GvDPPGkTgU101yqmBa2bRjU387YD_dsG41cMDTZ41WCOXe8g4KE-kL-mCZ9fz9Ahwl3r3Gh1jFLn3TIuScsSVQhN3_Oksttua",
+              "width" : 4032
+           }
+        ],
+        "place_id" : "ChIJUz0w_QoUuEcR6da78d8Exu0",
+        "plus_code" : {
+           "compound_code" : "6VGR+FQ Enschede, Netherlands",
+           "global_code" : "9F486VGR+FQ"
         },
-        {
-            "geometry": {
-                "location": {
-                    "lat": 52.2203853,
-                    "lng": 6.898530199999999
-                },
-                "viewport": {
-                    "northeast": {
-                        "lat": 52.2219863302915,
-                        "lng": 6.900316730291501
-                    },
-                    "southwest": {
-                        "lat": 52.2192883697085,
-                        "lng": 6.897618769708497
-                    }
-                }
-            },
-            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-            "id": "d56ea5a45e02672a0c60b934a747eb7bdacfd667",
-            "name": "Rico Latino",
-            "opening_hours": {
-                "open_now": true
-            },
-            "photos": [
-                {
-                    "height": 1076,
-                    "html_attributions": [
-                        "<a href=\"https://maps.google.com/maps/contrib/107585518134559901119/photos\">Rico Latino</a>"
-                    ],
-                    "photo_reference": "CmRaAAAA9IlV8eSnak0oK-fZnVbZvrmUIVS78OJ0n52CaB0Q69KsprryKaPCqdbvoIxQce5jCzQAB7Gk74qDigMQg2F6kw9Lw-SGbqTVwflMENLsiyx6Oke77-BfgwVEu47lmZFQEhBD3zt2QF7WKqqCUkFfze7BGhTYTipUI3Jel8rQ3MJeqgOhCEQnbQ",
-                    "width": 1920
-                }
-            ],
-            "place_id": "ChIJ4SQFRXIUuEcR5nQBHVLqNu0",
-            "plus_code": {
-                "compound_code": "6VCX+5C Enschede, Netherlands",
-                "global_code": "9F486VCX+5C"
-            },
-            "rating": 4.2,
-            "reference": "CmRSAAAAI0SC-lE_R-RbLIZGCVJyriFATJLhsBfH4apZiR4bay4PVtifWXnM79Ultd3muOtmbpz7XgsVjmgQSnUQaJTuG-ww4O3iYSNaqi36JO44MygwRNqvnQvTH4KR_lTkHkfVEhCrtlWy2BOUqD0MvTPv1azaGhSelXBszFcATnFoHP_L4EWJffKcQQ",
-            "scope": "GOOGLE",
-            "types": [
-                "night_club",
-                "point_of_interest",
-                "establishment"
-            ],
-            "vicinity": "De Heurne 19B, Enschede"
+        "price_level" : 1,
+        "rating" : 4.3,
+        "reference" : "ChIJUz0w_QoUuEcR6da78d8Exu0",
+        "scope" : "GOOGLE",
+        "types" : [ "night_club", "bar", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 23,
+        "vicinity" : "Lasonderstraat 36, Enschede"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 52.2214115,
+              "lng" : 6.894869900000001
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 52.22227488029149,
+                 "lng" : 6.896010380291502
+              },
+              "southwest" : {
+                 "lat" : 52.21957691970849,
+                 "lng" : 6.893312419708497
+              }
+           }
         },
-        {
-            "geometry": {
-                "location": {
-                    "lat": 52.2211921,
-                    "lng": 6.895538099999999
-                },
-                "viewport": {
-                    "northeast": {
-                        "lat": 52.2221552802915,
-                        "lng": 6.896343330291502
-                    },
-                    "southwest": {
-                        "lat": 52.2194573197085,
-                        "lng": 6.893645369708497
-                    }
-                }
-            },
-            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
-            "id": "8bdc24f9e4496b03c482d414a0d8ce1f72d51b4d",
-            "name": "Paddy's",
-            "opening_hours": {
-                "open_now": false
-            },
-            "photos": [
-                {
-                    "height": 2448,
-                    "html_attributions": [
-                        "<a href=\"https://maps.google.com/maps/contrib/111752680238918149949/photos\">Carl Kleine-Weischede</a>"
-                    ],
-                    "photo_reference": "CmRaAAAAdLbxDDrD8O86e4-HlSz-HwiigtV88B_7QemzX7l5X8oVPJTJhQr6_QqMHggSWBb26vBaybfar6B4ANqabWfZhk3rOc7odOVyQEfrviEFe4SnT8Y7krPoQ6-k10Or58jfEhDHHAWB42mINCoNCS_EbgbMGhQnDIaEhVZ_tgpNY93bm5Lk_xd9ig",
-                    "width": 3264
-                }
-            ],
-            "place_id": "ChIJyxPUnXMUuEcRJcVmbogrcGE",
-            "plus_code": {
-                "compound_code": "6VCW+F6 Enschede, Netherlands",
-                "global_code": "9F486VCW+F6"
-            },
-            "rating": 4.1,
-            "reference": "CmRRAAAAf-kbo-hcK8Io0N_FB1EN6JDVjxtKBEAPneWb2Ig7xXpfsjBLhXjFjjWAgEezkNY5Zei3SUKkUzVewkJJTVeSbG1DFnTmcVZX0ESj_JA4QvrLIsP61Q7LNJYZi1q1zjWKEhA2EYbbFTthdZLYS5GgCpwdGhQWbVuYaQ2R2ZSShzXQE4HGMwoZEQ",
-            "scope": "GOOGLE",
-            "types": [
-                "night_club",
-                "bar",
-                "restaurant",
-                "food",
-                "point_of_interest",
-                "establishment"
-            ],
-            "vicinity": "Oude Markt 12, Enschede"
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "Shooters",
+        "opening_hours" : {
+           "open_now" : false
         },
-        {
-            "geometry": {
-                "location": {
-                    "lat": 52.2262131,
-                    "lng": 6.891979900000001
-                },
-                "viewport": {
-                    "northeast": {
-                        "lat": 52.2275721302915,
-                        "lng": 6.893245680291503
-                    },
-                    "southwest": {
-                        "lat": 52.2248741697085,
-                        "lng": 6.890547719708498
-                    }
-                }
-            },
-            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
-            "id": "7c957f1401694d634c162c221987799bb98f275d",
-            "name": "De Brouwerij",
-            "opening_hours": {
-                "open_now": true
-            },
-            "photos": [
-                {
-                    "height": 3024,
-                    "html_attributions": [
-                        "<a href=\"https://maps.google.com/maps/contrib/108569199753162547756/photos\">Brouwerij</a>"
-                    ],
-                    "photo_reference": "CmRaAAAAhBdalyCRAKB3wVOpB9evO3jwANUFkgTVVZMl-cr_Qt2G5SkuJ4DflNcSRGdvPWyGxNGZEm4eI7Oz-5s1pBPFG4wEHJoqxaGjbTGub0LVc-lcExnVXHX16ujI8zBdtps_EhChpISUY59Lva9YkeEt_lthGhQStoXQZRcb9mkqibHQ8vha9gwj3A",
-                    "width": 4032
-                }
-            ],
-            "place_id": "ChIJUz0w_QoUuEcR6da78d8Exu0",
-            "plus_code": {
-                "compound_code": "6VGR+FQ Enschede, Netherlands",
-                "global_code": "9F486VGR+FQ"
-            },
-            "rating": 5,
-            "reference": "CmRSAAAAiYs6cTzxbl-rvYyAaoPLxz2BBWa80TQengG2ODOGQYESRcUDMLvjGJMlPgdYSvhwkBucefWVNbwUwxRZ3XTVf_ezPq37FSBD7cUI8YQyHRCDwvC6_QZ1cyZIVXzQTF6kEhB8JIn5vjk7ZISH24aQfNzWGhRfoOkodFW-8OUr38HhGw1e716rTQ",
-            "scope": "GOOGLE",
-            "types": [
-                "night_club",
-                "bar",
-                "point_of_interest",
-                "establishment"
-            ],
-            "vicinity": "Lasonderstraat 36, Enschede"
+        "photos" : [
+           {
+              "height" : 2592,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/115704825497774601766\"\u003eJorg W.\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECIiP_9PxPT5yr4Xe_7L9CNXgwvgHi4vruuj7wT0VudQt2RrCgWlkbACFo6bI9p_pnOqYaAg--IpnI5HxoXcLB8Ynq77glT25Cv15R4b7hRpaACLXEDw3Of8VM-56L2b3dp7u0-Hv5io3dVsfooZd4nulK8nvS_9dvbtW2yHYu1MCsu",
+              "width" : 4608
+           }
+        ],
+        "place_id" : "ChIJufOAeHMUuEcRGjRNHXBLJhY",
+        "plus_code" : {
+           "compound_code" : "6VCV+HW Enschede, Netherlands",
+           "global_code" : "9F486VCV+HW"
         },
-        {
-            "geometry": {
-                "location": {
-                    "lat": 52.2146749,
-                    "lng": 6.900809600000001
-                },
-                "viewport": {
-                    "northeast": {
-                        "lat": 52.21602368029149,
-                        "lng": 6.902245130291503
-                    },
-                    "southwest": {
-                        "lat": 52.2133257197085,
-                        "lng": 6.899547169708498
-                    }
-                }
-            },
-            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
-            "id": "b753af217f6581ceaa463658479c3afe0bdc365f",
-            "name": "Breukers Tuinmeubelen",
-            "opening_hours": {
-                "open_now": false
-            },
-            "photos": [
-                {
-                    "height": 1288,
-                    "html_attributions": [
-                        "<a href=\"https://maps.google.com/maps/contrib/110397902803026017415/photos\">Breukers Tuinmeubelen</a>"
-                    ],
-                    "photo_reference": "CmRaAAAAf4SnqSkIB-aEBeavjZVJ7FdwdWRWCiro_6uwoeqwv3O-C2-h3pXgrFSXzdlOP6DfEB9zf-YKWe9liTtenHHE90OmNvgRYnL1ffN1ZhcJXT6yIVO09-8GxkMpOy5DhJIlEhDnd2VjifyS42xuYGVgNfjyGhSFkhO65M_1rLQ_uZSj8Cm-HqbnqA",
-                    "width": 1936
-                }
-            ],
-            "place_id": "ChIJKTpXwW8UuEcRmV8UnwF4Eck",
-            "plus_code": {
-                "compound_code": "6W72+V8 Enschede, Netherlands",
-                "global_code": "9F486W72+V8"
-            },
-            "rating": 5,
-            "reference": "CmRSAAAAbwtP1Rowuv0Y_oL2_oCGPaqHv7J5Bp1x08eVD_vUC6nKQWm6lGxDgqtak8QY4VJbrtDzowOHo0_0d21edtZ1VBihP8mU7kUjEhQcGo5_CXrGjWzg-r52TfbJGWfwBitnEhDpsRh_xgU9fQwMKeUjKvqfGhQbJSwgpxbXa67N8hhmKLBEWS7wxw",
-            "scope": "GOOGLE",
-            "types": [
-                "furniture_store",
-                "night_club",
-                "bar",
-                "park",
-                "home_goods_store",
-                "store",
-                "point_of_interest",
-                "establishment"
-            ],
-            "vicinity": "Floresstraat 18A, Enschede"
+        "price_level" : 1,
+        "rating" : 4.1,
+        "reference" : "ChIJufOAeHMUuEcRGjRNHXBLJhY",
+        "scope" : "GOOGLE",
+        "types" : [ "bar", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 134,
+        "vicinity" : "Stadsgravenstraat 19, Enschede"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 52.220989,
+              "lng" : 6.8963255
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 52.22205328029149,
+                 "lng" : 6.897262749999999
+              },
+              "southwest" : {
+                 "lat" : 52.21935531970849,
+                 "lng" : 6.89351375
+              }
+           }
         },
-        {
-            "geometry": {
-                "location": {
-                    "lat": 52.2214474,
-                    "lng": 6.894907099999999
-                },
-                "viewport": {
-                    "northeast": {
-                        "lat": 52.22228293029149,
-                        "lng": 6.896027830291501
-                    },
-                    "southwest": {
-                        "lat": 52.21958496970849,
-                        "lng": 6.893329869708498
-                    }
-                }
-            },
-            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
-            "id": "207722bdc2766eb46cf857bad38be93bea3eb8a1",
-            "name": "N8kelder",
-            "opening_hours": {
-                "open_now": false
-            },
-            "photos": [
-                {
-                    "height": 540,
-                    "html_attributions": [
-                        "<a href=\"https://maps.google.com/maps/contrib/103124868254508797456/photos\">N8kelder</a>"
-                    ],
-                    "photo_reference": "CmRaAAAAkVzUHt6x0VvFNwVZOKi1az58u8bIb5Ge5zJ058GfNOUJ1-X_0fj4CBWvOIj5PmNmGOmMUsrnkzwgLQaNBdqaIkSVojrCC-O0BFMeiEWPca6KFhk6Bxjrw1HCCGvbX6byEhDOvXFjjNjdhRHKI_mR20eiGhTG7EZRnf88v8hcggbIoxfcoj91Gg",
-                    "width": 960
-                }
-            ],
-            "place_id": "ChIJP1xxeHMUuEcRg2SYq7-zFes",
-            "plus_code": {
-                "compound_code": "6VCV+HX Enschede, Netherlands",
-                "global_code": "9F486VCV+HX"
-            },
-            "rating": 4.7,
-            "reference": "CmRSAAAATNt7lquoQ-_eXI7X2pqY2HIttlcG_h5YXPZnoVSC7XORgAZ4E07U-I7jVB0rA4PeSz5S_As4j3tZNGY7taCKpY10xL7DwVyX9q5Zz3WUURY4PWx_lEtidDFQ1XYgkQ6SEhAeabILFSfwe2-9dOpw9af1GhRG4RLYPlWw7DeKK9fehCTmX68KvQ",
-            "scope": "GOOGLE",
-            "types": [
-                "night_club",
-                "point_of_interest",
-                "establishment"
-            ],
-            "vicinity": "Stadsgravenstraat 19A, Enschede"
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "Proeflokaal België",
+        "opening_hours" : {
+           "open_now" : false
         },
-        {
-            "geometry": {
-                "location": {
-                    "lat": 52.2097525,
-                    "lng": 6.8736451
-                },
-                "viewport": {
-                    "northeast": {
-                        "lat": 52.2111413802915,
-                        "lng": 6.875051830291503
-                    },
-                    "southwest": {
-                        "lat": 52.2084434197085,
-                        "lng": 6.872353869708498
-                    }
-                }
-            },
-            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-            "id": "f618e2270714595f4d392d7b5600906a7415fad1",
-            "name": "Drive-in Discoshow Sussudio",
-            "opening_hours": {
-                "open_now": true
-            },
-            "photos": [
-                {
-                    "height": 2304,
-                    "html_attributions": [
-                        "<a href=\"https://maps.google.com/maps/contrib/102691553441841691141/photos\">Drive-in Discoshow Sussudio</a>"
-                    ],
-                    "photo_reference": "CmRaAAAApOSRio1lzJYaek0Euxpx_WZfNMGj3Dh1GBVomiKRQlQwPFMFMQCBpzi4C-JLlogY8V9SqEie-t6u-WoEhgiFfhn37xkD0seDYyTv70y7e26dZFIWnO5EUQNh43ugdxXeEhDy3Acufto5EGOM_MPaoAu3GhSzhckEvVSq1Kl6rB_46q67kAHCwQ",
-                    "width": 3456
-                }
-            ],
-            "place_id": "ChIJGQ5ShIQTuEcREPd5rPNTp3U",
-            "plus_code": {
-                "compound_code": "6V5F+WF Enschede, Netherlands",
-                "global_code": "9F486V5F+WF"
-            },
-            "reference": "CmRRAAAAtQPha6CFanEYm10GZBjPow-ZsIEcJlAlJHyNnUA1a4jtL8kYSha05N56ZaNOAFXmmCDoOFMRl3eI_hYAQHsEHJrYwrdu5uHvboRmBoEVAjlMdlsQgCpDR37DZjwbyV7lEhBP403T_JNNWvDXw-VNosDiGhShrFVz_5tqEAYH8QWh9XPR_Nn6bg",
-            "scope": "GOOGLE",
-            "types": [
-                "night_club",
-                "point_of_interest",
-                "establishment"
-            ],
-            "vicinity": "Benjamin Willem Ter Kuilestraat 37, Enschede"
+        "photos" : [
+           {
+              "height" : 3000,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/109257093391841277382\"\u003eDaan Breuking\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEB4RQ2YKOpLp4y_GXG2yJwj3wrNym3Gc03x6y5TCENXXbKkQhFdru2_MkGFlbI0LFBHOUimfNoRWW5K8cPKMYA8YUrEArSdpBYrGpwlLEf-7JGl6nl7bEXrmxAbUfgbNvWm9H7uf6JgxZVRyFqfBRRJOuzt1vhUQB22TokIyanHAel6",
+              "width" : 4000
+           }
+        ],
+        "place_id" : "ChIJjwRXoXMUuEcRfMHeFBE5y4Q",
+        "plus_code" : {
+           "compound_code" : "6VCW+9G Enschede, Netherlands",
+           "global_code" : "9F486VCW+9G"
         },
-        {
-            "geometry": {
-                "location": {
-                    "lat": 52.2148382,
-                    "lng": 6.9909936
-                },
-                "viewport": {
-                    "northeast": {
-                        "lat": 52.2162599302915,
-                        "lng": 6.992356180291503
-                    },
-                    "southwest": {
-                        "lat": 52.2135619697085,
-                        "lng": 6.989658219708498
-                    }
-                }
-            },
-            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
-            "id": "f6f0696e8e68e818e584f1d65063fb46685df043",
-            "name": "SimonsPartykeller",
-            "opening_hours": {
-                "open_now": false
-            },
-            "place_id": "ChIJkUS6u4sVuEcRq0meWqkNDLQ",
-            "plus_code": {
-                "compound_code": "6X7R+W9 Gronau, Germany",
-                "global_code": "9F486X7R+W9"
-            },
-            "reference": "CmRSAAAAx4S4PFhfkUdyhOo1Es6N6E92AfKDVGaUHt2wXY3eIRPBFN1w6xsiwn3-4UHq5cFHH6Os9TezjYdoZAAMAgZpQ2PJNrB-Sx6N55Wq04CRl_oR00Trd0btV4jGU6kkrm8sEhB0PRZRrmIkCX9ZPu4-2eLaGhS6DxQp7m4Nv2muNjQ5iKuV_QSCDA",
-            "scope": "GOOGLE",
-            "types": [
-                "night_club",
-                "point_of_interest",
-                "establishment"
-            ],
-            "vicinity": "Enscheder Straße 278, Gronau (Westfalen)"
+        "price_level" : 2,
+        "rating" : 4.5,
+        "reference" : "ChIJjwRXoXMUuEcRfMHeFBE5y4Q",
+        "scope" : "GOOGLE",
+        "types" : [ "bar", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 1017,
+        "vicinity" : "Oude Markt 20, Enschede"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 52.2197955,
+              "lng" : 6.894062300000001
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 52.2213739802915,
+                 "lng" : 6.895640280291503
+              },
+              "southwest" : {
+                 "lat" : 52.2186760197085,
+                 "lng" : 6.892942319708498
+              }
+           }
         },
-        {
-            "geometry": {
-                "location": {
-                    "lat": 52.2214018,
-                    "lng": 6.8949641
-                },
-                "viewport": {
-                    "northeast": {
-                        "lat": 52.2222601302915,
-                        "lng": 6.896056330291502
-                    },
-                    "southwest": {
-                        "lat": 52.2195621697085,
-                        "lng": 6.893358369708498
-                    }
-                }
-            },
-            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
-            "id": "ed9cf6932d15de41d06cad738740e5da37a99b16",
-            "name": "De N8 Kelder",
-            "photos": [
-                {
-                    "height": 425,
-                    "html_attributions": [
-                        "<a href=\"https://maps.google.com/maps/contrib/101684051528566845023/photos\">K R</a>"
-                    ],
-                    "photo_reference": "CmRaAAAAIqOA1u5ditchNUrrQGZxIbnRuJ-IYclYMWDxYOmEfGHBjMV4o0b60QKYHjYBXgu-Fo30u1tueGuBBA2PvIB_OgvohwWnvjizJOakAp7JVrGurJhfZet_ZlMh14ryMKIqEhD0jGvlo1OHLqUKvqII0sQuGhRKshtx1QoA7yr_i9S_7SG-YGUoqA",
-                    "width": 425
-                }
-            ],
-            "place_id": "ChIJufOAeHMUuEcRjBw-7ijSU1Q",
-            "plus_code": {
-                "compound_code": "6VCV+HX Enschede, Netherlands",
-                "global_code": "9F486VCV+HX"
-            },
-            "rating": 4,
-            "reference": "CmRRAAAAxW7QwElgaErZap7OnxdzRBjegYerHqQ-s5n_-c2rVcnYeyB7rb9hWEkvr5obX6FnvqL1SQjB4haK6Qx1xzZvs12SpcqZzTBEGpqPYg7p8T45gKGZN_1PiPrey_BLPJH9EhCBKUvJOXpLCW8fTH0fbPYEGhQoqoPXTlg6ScXcFa6d8iQKWB_kQw",
-            "scope": "GOOGLE",
-            "types": [
-                "night_club",
-                "point_of_interest",
-                "establishment"
-            ],
-            "vicinity": "Stadsgravenstraat 19, Enschede"
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name" : "Spaans Restaurant Los Sueños \"mas que tapas\" in Enschede",
+        "opening_hours" : {
+           "open_now" : false
         },
-        {
-            "geometry": {
-                "location": {
-                    "lat": 52.2193829,
-                    "lng": 6.8945237
-                },
-                "viewport": {
-                    "northeast": {
-                        "lat": 52.2211676802915,
-                        "lng": 6.895821180291502
-                    },
-                    "southwest": {
-                        "lat": 52.2184697197085,
-                        "lng": 6.893123219708498
-                    }
-                }
-            },
-            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
-            "id": "01df5572f3fa97c0fffa9b78fee2da32803a4f3d",
-            "name": "Jazzpodium de Tor",
-            "opening_hours": {
-                "open_now": false
-            },
-            "photos": [
-                {
-                    "height": 3024,
-                    "html_attributions": [
-                        "<a href=\"https://maps.google.com/maps/contrib/106562244935548966979/photos\">Lucas Meertens</a>"
-                    ],
-                    "photo_reference": "CmRaAAAAPUhENMO8PcuM8d0lxfw0xNgYiMd6VokhqLs_VfFOPX8qqKTC2_vaCa-V9ey3Y1XIsrTQ8sWNM-SHfwhmmbhJWclhk4sXp_pk0zQN9IveZqDd5RSUP8AAZCKbz8kjA_gIEhACobxE85SF6LG87SFppa5XGhSBytymF1IBnLJ1e8qrfGOe0RXDvQ",
-                    "width": 4032
-                }
-            ],
-            "place_id": "ChIJ1ymb-nMUuEcRxTnBwP9P_F4",
-            "plus_code": {
-                "compound_code": "6V9V+QR Enschede, Netherlands",
-                "global_code": "9F486V9V+QR"
-            },
-            "rating": 4.1,
-            "reference": "CmRRAAAAODwdcCBpQJvwHeRRejNGTp8FW0ZwSTmcgYvzbda8Qw6mhBgKTre-Wkci5dTq0LZ9QCt-i3l21NDXBOekXjQIU1SdA-Ss6sOc2YWApVnhgVtbJB-Zq0_ZJHimuXGcvwsBEhBQ1N-u4bjPqU29zR8Z3pSkGhSW7Ibg8QRZLLE7p7LN6_MN-DnsRw",
-            "scope": "GOOGLE",
-            "types": [
-                "night_club",
-                "bar",
-                "point_of_interest",
-                "establishment"
-            ],
-            "vicinity": "Walstraat 21, Enschede"
+        "photos" : [
+           {
+              "height" : 4000,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/100660974471114443504\"\u003eSpaans Restaurant Los Sueños &quot;mas que tapas&quot; in Enschede\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECjDHXuAAssyVAOMNnV0lHS7xFIx8qfmXeKcsbiEVav4USPmpkF4DL03AWU33aiFZ7VYZUTIXJMctu5hjlvG-N_lkarVBAaCcQUw6R2Uz6n1LZjua6t2jYYpflixHbHzRBXDIB2YJl6NuhDgZeXye-QDkQH7D0tiuqB_UOZ57ZH9S8z",
+              "width" : 6000
+           }
+        ],
+        "place_id" : "ChIJE8kSYasVuEcRaj1ii--ahO4",
+        "plus_code" : {
+           "compound_code" : "6V9V+WJ Enschede, Netherlands",
+           "global_code" : "9F486V9V+WJ"
         },
-        {
-            "geometry": {
-                "location": {
-                    "lat": 52.22138280000001,
-                    "lng": 6.8934586
-                },
-                "viewport": {
-                    "northeast": {
-                        "lat": 52.2227083302915,
-                        "lng": 6.894873830291503
-                    },
-                    "southwest": {
-                        "lat": 52.2200103697085,
-                        "lng": 6.892175869708498
-                    }
-                }
-            },
-            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-            "id": "0c31ae74b7add0d9ee3d64d7662fb857e221c49a",
-            "name": "Club Casanova",
-            "opening_hours": {
-                "open_now": false
-            },
-            "photos": [
-                {
-                    "height": 1365,
-                    "html_attributions": [
-                        "<a href=\"https://maps.google.com/maps/contrib/112388103004625759064/photos\">Club Casanova</a>"
-                    ],
-                    "photo_reference": "CmRaAAAA744djTwtoxKW8j2YUd9jl3hKCxo_SrqaVUnD0E0RdVq41f7J_VCscOKEC2z_XqgEpGkriWltIwTvXAzCNjDUTXq5f9Umf0gejl-O_ts_sgBQj0etoLbUHGICUj3MdxYOEhBMdHoshyss8OuJGYxysyzaGhRJhr0t5QPXUGPywp8PEjEEPtNsOg",
-                    "width": 2048
-                }
-            ],
-            "place_id": "ChIJYbAxfXQUuEcREcXIJO6XjzE",
-            "plus_code": {
-                "compound_code": "6VCV+H9 Enschede, Netherlands",
-                "global_code": "9F486VCV+H9"
-            },
-            "rating": 4.5,
-            "reference": "CmRRAAAA6ygv9Mrr2Es81MMWeNKI-w7ssozHSbtakCEHHPMMiJ4HM4o9L4O9nNYFIRfP1XjRtodHhgbIPX8U3Xe81bhxwQrer_IzN0XvYnZkMQmu9lr6vJI-y3qzrdmnv2NGWhLiEhAXK7IZb1ew6LIyreXpNneuGhQgbwwJUIsnfT-YsXpOk-nPpH-_3A",
-            "scope": "GOOGLE",
-            "types": [
-                "night_club",
-                "point_of_interest",
-                "establishment"
-            ],
-            "vicinity": "Noorderhagen 1B, Enschede"
+        "rating" : 4.2,
+        "reference" : "ChIJE8kSYasVuEcRaj1ii--ahO4",
+        "scope" : "GOOGLE",
+        "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 65,
+        "vicinity" : "Walstraat 41, Enschede"
+     },
+     {
+        "business_status" : "CLOSED_TEMPORARILY",
+        "geometry" : {
+           "location" : {
+              "lat" : 52.2193829,
+              "lng" : 6.8945237
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 52.2211676802915,
+                 "lng" : 6.895879580291503
+              },
+              "southwest" : {
+                 "lat" : 52.2184697197085,
+                 "lng" : 6.893181619708498
+              }
+           }
         },
-        {
-            "geometry": {
-                "location": {
-                    "lat": 52.23160599999999,
-                    "lng": 6.892733100000001
-                },
-                "viewport": {
-                    "northeast": {
-                        "lat": 52.23284243029149,
-                        "lng": 6.894121580291502
-                    },
-                    "southwest": {
-                        "lat": 52.23014446970849,
-                        "lng": 6.891423619708497
-                    }
-                }
-            },
-            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
-            "id": "4eee54123bbb4beb0f1b306911a160073356eb50",
-            "name": "Michelino Lounge",
-            "place_id": "ChIJXRZV2qUVuEcRTb_pKm6rhow",
-            "plus_code": {
-                "compound_code": "6VJV+J3 Enschede, Netherlands",
-                "global_code": "9F486VJV+J3"
-            },
-            "rating": 5,
-            "reference": "CmRSAAAAuGgyvNuj6tY80QJDY63nTNU-IfgI4DbM_ihSpCLgsuGntxYCzLgu_lhq9NpVjhTbNyaREE0AFaGgoWufctMcwKmbDy_BRiIFaB90x2eRvYg_GI2KTdu0ROvk8l1M6nWnEhDP86C646tXXKSyEj6551bTGhQhCGIO3gOWz0NdrwDuT89wfWzKlg",
-            "scope": "GOOGLE",
-            "types": [
-                "night_club",
-                "bar",
-                "point_of_interest",
-                "establishment"
-            ],
-            "vicinity": "Roomweg 127, Enschede"
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "Jazzpodium de Tor",
+        "permanently_closed" : true,
+        "photos" : [
+           {
+              "height" : 3024,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/106562244935548966979\"\u003eLucas Meertens\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEDp1A8EgokktmWnTOSjG9JliJX0EXvz0BTB2hSGRaja7iBCGBfCNNU7gjYAR_2zMgNvBvShv8Dar1ylMTrQ7_dEkXsM-tsKaBj5k-hw8owJF2R8SHMDDNobuhsJiU-KxP4LCOwU8FwLJrc8JqoYbJ2E1yvHssXBGk4xDo6YVnjg_2ER",
+              "width" : 4032
+           }
+        ],
+        "place_id" : "ChIJ1ymb-nMUuEcRxTnBwP9P_F4",
+        "plus_code" : {
+           "compound_code" : "6V9V+QR Enschede, Netherlands",
+           "global_code" : "9F486V9V+QR"
         },
-        {
-            "geometry": {
-                "location": {
-                    "lat": 52.2165319,
-                    "lng": 7.006228499999999
-                },
-                "viewport": {
-                    "northeast": {
-                        "lat": 52.21785008029149,
-                        "lng": 7.007576530291502
-                    },
-                    "southwest": {
-                        "lat": 52.21515211970849,
-                        "lng": 7.004878569708498
-                    }
-                }
-            },
-            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
-            "id": "4c2bb0df0f92744b62c204a93e043407ce8107a6",
-            "name": "Majestic Shisha Lounge",
-            "opening_hours": {
-                "open_now": false
-            },
-            "photos": [
-                {
-                    "height": 3096,
-                    "html_attributions": [
-                        "<a href=\"https://maps.google.com/maps/contrib/115455350097319677459/photos\">Gabriel Hada</a>"
-                    ],
-                    "photo_reference": "CmRZAAAAlGH8WYd1v9mRu6Fikzbos46lU5CcDPvc-0oVXCgb9bkBmrDdz3SBsxSgc98l7qelcPHH62Se2ghkOLci5IFxgWc0qRVWEQHXC7_StilnaKPvI6g0cQc0ZZ6J64XKnwFGEhATgOksEPIneFTMNVYrEE0CGhRuUFsUIiEEZE3GgjljDuULjBxttg",
-                    "width": 4128
-                }
-            ],
-            "place_id": "ChIJywsQYiI-uEcRb5IZs96jQgI",
-            "plus_code": {
-                "compound_code": "6284+JF Gronau, Germany",
-                "global_code": "9F496284+JF"
-            },
-            "rating": 4.7,
-            "reference": "CmRRAAAAH6pcVVZ8437TWkn7i4Nz9U5dW9IgfHsnGivpOpyOayy4J2FpHf-4qZn6WbSGpRRjR9aT2Gj9ql9O6ZPElLrxPNVqZkP9jFRdBQoP3ANPWMzgawxOD3dW0dCi6ImpSayZEhB3wWjlINabzD7W37CvT3-bGhQv4u1dCnsFdK7FFD1Z6QY3n3GiMQ",
-            "scope": "GOOGLE",
-            "types": [
-                "night_club",
-                "bar",
-                "point_of_interest",
-                "establishment"
-            ],
-            "vicinity": "Herzogstraße 16, Gronau (Westfalen)"
+        "price_level" : 1,
+        "rating" : 4.4,
+        "reference" : "ChIJ1ymb-nMUuEcRxTnBwP9P_F4",
+        "scope" : "GOOGLE",
+        "types" : [ "night_club", "bar", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 48,
+        "vicinity" : "Walstraat 21, Enschede"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 52.22042459999999,
+              "lng" : 6.895044299999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 52.22176338029149,
+                 "lng" : 6.896242680291503
+              },
+              "southwest" : {
+                 "lat" : 52.2190654197085,
+                 "lng" : 6.893544719708498
+              }
+           }
         },
-        {
-            "geometry": {
-                "location": {
-                    "lat": 52.2273361,
-                    "lng": 6.8785651
-                },
-                "viewport": {
-                    "northeast": {
-                        "lat": 52.2286347802915,
-                        "lng": 6.879860980291503
-                    },
-                    "southwest": {
-                        "lat": 52.2259368197085,
-                        "lng": 6.877163019708498
-                    }
-                }
-            },
-            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
-            "id": "474e5d184ff7585849d952daf802c67ba2b77e81",
-            "name": "Zwicked! het Huisch",
-            "photos": [
-                {
-                    "height": 1200,
-                    "html_attributions": [
-                        "<a href=\"https://maps.google.com/maps/contrib/113059141845844748811/photos\">Zwicked! het Huisch</a>"
-                    ],
-                    "photo_reference": "CmRaAAAAukY7F1Hom2lw4m6mSLw835wIYuP4TMbqmh_XUUALc-pCz_WyaV7X1MQs5OH76E-O10lHkarRBl-Rh3a-2NUNrGxZNf9L3hzDIvzuwcNi-XNSxenf5DZ-KUh2NDhkhqmvEhDaNqzHPA9j_X6HO7oYO-IEGhRFeu90kvRP1sXyGlK0MlUs2a4QnA",
-                    "width": 1600
-                }
-            ],
-            "place_id": "ChIJ4RXe_fITuEcRYf8C27MFDLE",
-            "plus_code": {
-                "compound_code": "6VGH+WC Enschede, Netherlands",
-                "global_code": "9F486VGH+WC"
-            },
-            "rating": 4.9,
-            "reference": "CmRSAAAADiLcpL2_sTeZ3ovvFBdzxjxw2m2SxQPBM4NO66mIuCuXYpZyBGYRL4V2UHPsRORupJnHePEJHPnECCh5fWpG9OKb5QY8vRawA9KHihlmXmttizVSXehwBgU9Mhmeyfx7EhAHlfITyfFVKQT9Pxe_Dxv5GhQRXRC3y9MndkmYq6p1Dh9dlY-p_g",
-            "scope": "GOOGLE",
-            "types": [
-                "night_club",
-                "point_of_interest",
-                "establishment"
-            ],
-            "vicinity": "Hengelosestraat 184A, Enschede"
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name" : "NOVI Enschede",
+        "opening_hours" : {
+           "open_now" : true
         },
-        {
-            "geometry": {
-                "location": {
-                    "lat": 52.2142741,
-                    "lng": 6.8714985
-                },
-                "viewport": {
-                    "northeast": {
-                        "lat": 52.2155712302915,
-                        "lng": 6.872911230291503
-                    },
-                    "southwest": {
-                        "lat": 52.2128732697085,
-                        "lng": 6.870213269708498
-                    }
-                }
-            },
-            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
-            "id": "463f9860796ffb2239eae5ca1b9574ba29e03841",
-            "name": "Dream lounge",
-            "opening_hours": {
-                "open_now": false
-            },
-            "photos": [
-                {
-                    "height": 956,
-                    "html_attributions": [
-                        "<a href=\"https://maps.google.com/maps/contrib/100082157397545782047/photos\">Dream lounge</a>"
-                    ],
-                    "photo_reference": "CmRaAAAAg4aOfUJHYZlopFbFG75M8IsaaktBeP6p6FnmB7pbqlznhVQQa3pfvOryr3Rm1cfbugDxUegnZf_hJqwJfs86ElxXdDmediEmTkFfc836cuTAzPX3HjL5yfz5M4L0prEPEhBvgSKWaDqkbkklG2p4b602GhSqb9PtdDFai9GUKeipPAAQes-ixA",
-                    "width": 2048
-                }
-            ],
-            "place_id": "ChIJuzmJrpoTuEcRubC0yqWh-KM",
-            "plus_code": {
-                "compound_code": "6V7C+PH Enschede, Netherlands",
-                "global_code": "9F486V7C+PH"
-            },
-            "rating": 4.4,
-            "reference": "CmRSAAAA6UUhS8eInjoLDTOaSg0oormo0VK0FDYWqA4-v2xY7fi20Bg55GFX7lJDk9Av2kjvf7Bql3zhMLwwTyVjYBSIdY9dOhS1h9r_wHXg-9HizddD79FqCS96MRZn9hpzj831EhAGx2eLFwcT_XPj9L7pLSsgGhSauVBzhHoY0jlCCVXVm3mAULhoLA",
-            "scope": "GOOGLE",
-            "types": [
-                "night_club",
-                "bar",
-                "point_of_interest",
-                "establishment"
-            ],
-            "vicinity": "Zweringweg 20, Enschede"
+        "photos" : [
+           {
+              "height" : 562,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/115902410455622543381\"\u003eNOVI Enschede\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBdvWOVW8hC8QLC9stqXIzaBA8BZFWqqbGLy3cwjBkgOau_9EvxmrR9iXi8FLFL6Ct1pazpwzQlUqNBQHWqWISq9ilA9BOCm-HCMubBAARkxkaZQWs8m2tWzLoVKYjFBdbkaAimH0LDLFlATroGNpYu_eNAIzZ9JLkgiHZqoimcHZ98",
+              "width" : 1000
+           }
+        ],
+        "place_id" : "ChIJkSZeZVkVuEcRBJVAY1uYBoQ",
+        "plus_code" : {
+           "compound_code" : "6VCW+52 Enschede, Netherlands",
+           "global_code" : "9F486VCW+52"
         },
-        {
-            "geometry": {
-                "location": {
-                    "lat": 52.2183539,
-                    "lng": 6.895709799999999
-                },
-                "viewport": {
-                    "northeast": {
-                        "lat": 52.21970288029149,
-                        "lng": 6.897058780291501
-                    },
-                    "southwest": {
-                        "lat": 52.2170049197085,
-                        "lng": 6.894360819708496
-                    }
-                }
-            },
-            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
-            "id": "5b76afe4d08055b6acf73c17d64d2bfe466d822b",
-            "name": "Huize Roestige Spijker",
-            "place_id": "ChIJ2c9j-MMVuEcRbQfZN0touEk",
-            "plus_code": {
-                "compound_code": "6V9W+87 Enschede, Netherlands",
-                "global_code": "9F486V9W+87"
-            },
-            "reference": "CmRRAAAArZ9RlARDA7kuhEPcRFCQ8W0eJvZi2z23WLbgyvA16U72hiq6xHfqtyLTiUqzeuTVmM0eg1McHHEog8HqXpr2-1lfkOTHwSKP6AykByVxlknsvh_ZFSUJb-wZZC210zKmEhCqb8qWoDR51abnTWytuYNaGhRuYvwe-dVEzlt5IqSnUUM_2VYflg",
-            "scope": "GOOGLE",
-            "types": [
-                "night_club",
-                "point_of_interest",
-                "establishment"
-            ],
-            "vicinity": "Hendrik Jan van Heekplein 31, Enschede"
-        }
+        "rating" : 4.4,
+        "reference" : "ChIJkSZeZVkVuEcRBJVAY1uYBoQ",
+        "scope" : "GOOGLE",
+        "types" : [
+           "cafe",
+           "bar",
+           "restaurant",
+           "food",
+           "point_of_interest",
+           "establishment"
+        ],
+        "user_ratings_total" : 803,
+        "vicinity" : "Oude Markt 2, Enschede"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 52.22130809999999,
+              "lng" : 6.894520499999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 52.2222228302915,
+                 "lng" : 6.895849780291502
+              },
+              "southwest" : {
+                 "lat" : 52.2195248697085,
+                 "lng" : 6.893151819708497
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "'t Kroegje",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 3024,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/108991500959579042056\"\u003e&#39;t Kroegje\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEAKt3Gu1Ab8ZF_ZqrDE9EJp1le9_vuH3GRX2nLe_-vu2h5jn9N8t88zVI3tKIA87irLePxdrGVsJfTTYh2hOLMfuYwRY_gwQMCiCivt0JQsD7VJtWqf3cPj8dEuUGOsF9P6PlD_zaVc1RWR4Da5kWmWMmpcp7JIR2SbOB8S40YBNt6s",
+              "width" : 4032
+           }
+        ],
+        "place_id" : "ChIJC5f_BqYVuEcRfB0r6L6iIaE",
+        "plus_code" : {
+           "compound_code" : "6VCV+GR Enschede, Netherlands",
+           "global_code" : "9F486VCV+GR"
+        },
+        "reference" : "ChIJC5f_BqYVuEcRfB0r6L6iIaE",
+        "scope" : "GOOGLE",
+        "types" : [ "bar", "point_of_interest", "establishment" ],
+        "vicinity" : "Stadsgravenstraat 16, Enschede"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 52.2190835,
+              "lng" : 6.8950389
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 52.2210262802915,
+                 "lng" : 6.896128380291502
+              },
+              "southwest" : {
+                 "lat" : 52.2183283197085,
+                 "lng" : 6.893430419708498
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "Mood Bar By Ochepoch",
+        "place_id" : "ChIJP7jU4HMUuEcRBcwAYQFjUtk",
+        "plus_code" : {
+           "compound_code" : "6V9W+J2 Enschede, Netherlands",
+           "global_code" : "9F486V9W+J2"
+        },
+        "rating" : 4,
+        "reference" : "ChIJP7jU4HMUuEcRBcwAYQFjUtk",
+        "scope" : "GOOGLE",
+        "types" : [ "bar", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 3,
+        "vicinity" : "Netherlands"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 52.2214029,
+              "lng" : 6.894639399999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 52.2222662302915,
+                 "lng" : 6.895900480291504
+              },
+              "southwest" : {
+                 "lat" : 52.2195682697085,
+                 "lng" : 6.893202519708499
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "Bar Update",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 900,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/108214748067206178554\"\u003eBar Update\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEDLEU5YbSe4bapLKLOTFQWww5_aicFH23Ty2jpc323WYn0y06Z0aI5tm1zvata_00xAAC1ymTH2BzLNvxL9KYL4H6MwqVjACPqTEhCrSEO9JplaAyMTxQgn32IFSTHSwgqmsa0IqE9h6OH5NkGF6fGHCKgUPluITaiLFsMVSwKXL_Hq",
+              "width" : 900
+           }
+        ],
+        "place_id" : "ChIJiQPZmhwVuEcRFyiE_3ZM2as",
+        "plus_code" : {
+           "compound_code" : "6VCV+HV Enschede, Netherlands",
+           "global_code" : "9F486VCV+HV"
+        },
+        "rating" : 4.4,
+        "reference" : "ChIJiQPZmhwVuEcRFyiE_3ZM2as",
+        "scope" : "GOOGLE",
+        "types" : [ "bar", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 113,
+        "vicinity" : "Stadsgravenstraat 13, Enschede"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 52.21994520000001,
+              "lng" : 6.8956986
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 52.2214571302915,
+                 "lng" : 6.896521730291502
+              },
+              "southwest" : {
+                 "lat" : 52.2187591697085,
+                 "lng" : 6.893823769708497
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name" : "Bardot Enschede",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 2614,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/107293537530887749776\"\u003eBardot Enschede\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBOtB9d7sU6eq74VcMEUxgdIaahKSmMMN_Z7DgGcLrY1qOi7Ey8sJ1PD-lfRYswv_LDMocXCdQG4O2tArsVohYd73ybOq2urf5Uhly2CqxtwQ28vKC5eJ_9xK9ilSf-FEUbDYejbdTUXfiK0suJ7ppyJhxXvxBHrh8xlY8npi4BTAnR",
+              "width" : 4827
+           }
+        ],
+        "place_id" : "ChIJ_U8nPAUVuEcRAPYoqtcu2o8",
+        "plus_code" : {
+           "compound_code" : "6V9W+X7 Enschede, Netherlands",
+           "global_code" : "9F486V9W+X7"
+        },
+        "rating" : 4.4,
+        "reference" : "ChIJ_U8nPAUVuEcRAPYoqtcu2o8",
+        "scope" : "GOOGLE",
+        "types" : [ "restaurant", "bar", "food", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 408,
+        "vicinity" : "Langestraat 47c, Enschede"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 52.2225068,
+              "lng" : 6.8944797
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 52.2238454302915,
+                 "lng" : 6.895329049999999
+              },
+              "southwest" : {
+                 "lat" : 52.22114746970851,
+                 "lng" : 6.89201605
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "Pop-Up Sjikkertuin Stanislaus Brewskovitch",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 360,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/117328969656829470672\"\u003ePop-Up Sjikkertuin Stanislaus Brewskovitch\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBus5e_G4Kov2cM7tp9CTjctPjF6rcynTpqpIgm30z2hPzyBVdfkbTp4laeC-K3kzFBodidCJfJ2NYo0uSXqU-rx_JSuWeZ67DqPuDQPsyzcopqog4MW9whUp_aQJHDXrOGQwKWW4hLdQgzWrIe57-Ga8ypaMWXQpsBYXACS7BxXORG",
+              "width" : 641
+           }
+        ],
+        "place_id" : "ChIJw0J_i6IVuEcR8sEWiokcuz0",
+        "plus_code" : {
+           "compound_code" : "6VFV+2Q Enschede, Netherlands",
+           "global_code" : "9F486VFV+2Q"
+        },
+        "rating" : 4,
+        "reference" : "ChIJw0J_i6IVuEcR8sEWiokcuz0",
+        "scope" : "GOOGLE",
+        "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 14,
+        "vicinity" : "Willem Wilminkplein 2, Enschede"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 52.2213426,
+              "lng" : 6.896074500000001
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 52.22300878029149,
+                 "lng" : 6.897891080291501
+              },
+              "southwest" : {
+                 "lat" : 52.22031081970849,
+                 "lng" : 6.895193119708497
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name" : "Oaks Gastrobar",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 4560,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/117554965847041713101\"\u003eOaks Gastrobar\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBoZU5aB4B6z9zURO3N0O_wDOgL-J6tXcdjFMgvN0imBnu6PkjwnV_BW4NKUaAMW1gyRWNQfY_Jfg3iHv9VeYxUiXtxrZHuSHs7IhxzTRqFqBTa6qmRzTRuyHy7nY3-h2auM5z-xFTqFR-NewLGo-Fw96vDJACmbzm9o7Mp8JL_H4UJ",
+              "width" : 7952
+           }
+        ],
+        "place_id" : "ChIJG1jtDsUVuEcRVD5ECb7CNlc",
+        "plus_code" : {
+           "compound_code" : "6VCW+GC Enschede, Netherlands",
+           "global_code" : "9F486VCW+GC"
+        },
+        "rating" : 4.5,
+        "reference" : "ChIJG1jtDsUVuEcRVD5ECb7CNlc",
+        "scope" : "GOOGLE",
+        "types" : [ "restaurant", "bar", "food", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 79,
+        "vicinity" : "Stadsgravenstraat 47, Enschede"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 52.2211255,
+              "lng" : 6.8964906
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 52.22275998029149,
+                 "lng" : 6.898015880291502
+              },
+              "southwest" : {
+                 "lat" : 52.2200620197085,
+                 "lng" : 6.895317919708497
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "The Beer Room Enschede B.V.",
+        "place_id" : "ChIJ09lwoXMUuEcRwwCQcntjxrk",
+        "plus_code" : {
+           "compound_code" : "6VCW+FH Enschede, Netherlands",
+           "global_code" : "9F486VCW+FH"
+        },
+        "reference" : "ChIJ09lwoXMUuEcRwwCQcntjxrk",
+        "scope" : "GOOGLE",
+        "types" : [ "bar", "point_of_interest", "establishment" ],
+        "vicinity" : "Oude Markt 19, Enschede"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 52.2216753,
+              "lng" : 6.896138000000001
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 52.2231886802915,
+                 "lng" : 6.897927680291502
+              },
+              "southwest" : {
+                 "lat" : 52.2204907197085,
+                 "lng" : 6.895229719708498
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name" : "Bistro en Wijnbar BRUUT",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 901,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/112639026005494172520\"\u003eBistro en Wijnbar BRUUT\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEB-pHGu2gm-xfkxyMe3pHATUZylConiWKblTs7BVq3jx7K0qrGvES21VmlWgtl0DT7CXnZcsoA8jKutWsXz6tG1rgQqQvFintXPfuwMKiGOXeOMf-3YewarvrldNtVu_sTahCQ7LDkY4ruX1O-TsQOCdSDXSI6kJfgVcaIYQjkXeOEg",
+              "width" : 1600
+           }
+        ],
+        "place_id" : "ChIJT-0TGFsVuEcRJLrMXFogNXw",
+        "plus_code" : {
+           "compound_code" : "6VCW+MF Enschede, Netherlands",
+           "global_code" : "9F486VCW+MF"
+        },
+        "rating" : 4.3,
+        "reference" : "ChIJT-0TGFsVuEcRJLrMXFogNXw",
+        "scope" : "GOOGLE",
+        "types" : [
+           "restaurant",
+           "meal_takeaway",
+           "bar",
+           "food",
+           "point_of_interest",
+           "establishment"
+        ],
+        "user_ratings_total" : 102,
+        "vicinity" : "Noorderhagen 42, Enschede"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 52.2212486,
+              "lng" : 6.8967479
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 52.2229449302915,
+                 "lng" : 6.898212930291503
+              },
+              "southwest" : {
+                 "lat" : 52.2202469697085,
+                 "lng" : 6.895514969708498
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "Stanislaus Brewskovitch Stadsbrouwerij Menistenkerk Enschede",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 3024,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/106559904845622701931\"\u003eStanislaus Brewskovitch Stadsbrouwerij Menistenkerk Enschede\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEDlB0xWEWUsdUBTcmahkJl5N3MZeIguB6WFtf0AwFihzfqCxNi7_0ryHTAee6gJRsew5vmyv7N9qr0qzmDdlT2h0HraM7eiY7YLQKP5TnCPXxgJc0UfrnEb0Og4qSCWZ1il9lfjxJUTCtHtaENDAEgiho3tocsjksLYqIdxU4ooQKCI",
+              "width" : 4032
+           }
+        ],
+        "place_id" : "ChIJC0CNp3MUuEcRp2R4XQkzeY8",
+        "plus_code" : {
+           "compound_code" : "6VCW+FM Enschede, Netherlands",
+           "global_code" : "9F486VCW+FM"
+        },
+        "price_level" : 2,
+        "rating" : 4.6,
+        "reference" : "ChIJC0CNp3MUuEcRp2R4XQkzeY8",
+        "scope" : "GOOGLE",
+        "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 844,
+        "vicinity" : "Stadsgravenstraat 59, Enschede"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 52.2208133,
+              "lng" : 6.897399199999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 52.2227434802915,
+                 "lng" : 6.898567180291502
+              },
+              "southwest" : {
+                 "lat" : 52.2200455197085,
+                 "lng" : 6.895869219708498
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "Saloon de Wigwam",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 1536,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/111370968567679865247\"\u003eAnnelies Klein\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBGMvmGS6fwQRCjdFfN2Vu0LS_-qtPhAOqdtguu9KqbyehqQ8XxFxyEtCS3lYT6_6PVREDu1WtC32yy1XQUWhMuxliy97dvYF_lx-K3OU_fZRsWaqe--y5BueAI3qDeWnJVnPXPxjuQBleFSPkae_5lu03jVf-gw7UqNwyWwxDxXNfK",
+              "width" : 2048
+           }
+        ],
+        "place_id" : "ChIJ4aDsrHMUuEcRNfKieAlFmCM",
+        "plus_code" : {
+           "compound_code" : "6VCW+8X Enschede, Netherlands",
+           "global_code" : "9F486VCW+8X"
+        },
+        "price_level" : 1,
+        "rating" : 4.1,
+        "reference" : "ChIJ4aDsrHMUuEcRNfKieAlFmCM",
+        "scope" : "GOOGLE",
+        "types" : [
+           "night_club",
+           "cafe",
+           "bar",
+           "food",
+           "point_of_interest",
+           "establishment"
+        ],
+        "user_ratings_total" : 113,
+        "vicinity" : "Stadsgravenstraat 75, Enschede"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 52.2140964,
+              "lng" : 6.8834339
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 52.21541338029149,
+                 "lng" : 6.884740330291502
+              },
+              "southwest" : {
+                 "lat" : 52.21271541970849,
+                 "lng" : 6.882042369708498
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "Villa Colino",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 2610,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/102269656885198481795\"\u003eFrank Oosterveld\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECzRuSAvekOZJYGV96ee5T77qDTXPb8wjj8GQkehPD4TJZiJuvuNE5EhZy3qvN2Uqx9TgKEcfvlegrzLNazarjpy8P3Trsq1PIMOPxEuLCC-38ShGNmyuKVgT6b1pm2j23ffJP7MNQO_ebHFognffy-0g_u8eUMP4nl0JB0ewv6AYw1",
+              "width" : 4640
+           }
+        ],
+        "place_id" : "ChIJuR8adogTuEcRg2nL_U-DbrI",
+        "plus_code" : {
+           "compound_code" : "6V7M+J9 Enschede, Netherlands",
+           "global_code" : "9F486V7M+J9"
+        },
+        "rating" : 4.5,
+        "reference" : "ChIJuR8adogTuEcRg2nL_U-DbrI",
+        "scope" : "GOOGLE",
+        "types" : [ "bar", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 13,
+        "vicinity" : "Veldkampstraat 24, Enschede"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 52.21686239999999,
+              "lng" : 6.877248499999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 52.21820058029149,
+                 "lng" : 6.878694530291502
+              },
+              "southwest" : {
+                 "lat" : 52.2155026197085,
+                 "lng" : 6.875996569708497
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "Huize Frits Is Dood",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "place_id" : "ChIJp7S99FoTuEcRi1u4sUXyDDc",
+        "plus_code" : {
+           "compound_code" : "6V8G+PV Enschede, Netherlands",
+           "global_code" : "9F486V8G+PV"
+        },
+        "rating" : 5,
+        "reference" : "ChIJp7S99FoTuEcRi1u4sUXyDDc",
+        "scope" : "GOOGLE",
+        "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 5,
+        "vicinity" : "Zwedeweg 16, Enschede"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 52.2281829,
+              "lng" : 6.8992901
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 52.22956268029149,
+                 "lng" : 6.901105180291502
+              },
+              "southwest" : {
+                 "lat" : 52.22686471970849,
+                 "lng" : 6.898407219708497
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "De Vluchte",
+        "photos" : [
+           {
+              "height" : 3000,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/100577213099861330284\"\u003eMartin Leppen\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECxrmjVr2XO3gv_L-NGkYG8KH1kYPMfwJLEh06elb9Q3-cEYQ06iReQy8bipU_saxMYUQKeE6fQvlQ7PCxsK_mODPcpMHgjqQqpdhA3a3k0Qu1a7AQ6E6hUqBQKVRcMl5HdU9k1h9ABfJVDVZDUPQORRuhiYH8ZwJZDED51nNLosOoT",
+              "width" : 4000
+           }
+        ],
+        "place_id" : "ChIJxymVyA0UuEcRSN42bFNIR2E",
+        "plus_code" : {
+           "compound_code" : "6VHX+7P Enschede, Netherlands",
+           "global_code" : "9F486VHX+7P"
+        },
+        "rating" : 4.6,
+        "reference" : "ChIJxymVyA0UuEcRSN42bFNIR2E",
+        "scope" : "GOOGLE",
+        "types" : [
+           "cafe",
+           "bar",
+           "restaurant",
+           "food",
+           "point_of_interest",
+           "establishment"
+        ],
+        "user_ratings_total" : 11,
+        "vicinity" : "Oldenzaalsestraat 153A, Enschede"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 52.2281778,
+              "lng" : 6.9000244
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 52.2295353302915,
+                 "lng" : 6.901477730291502
+              },
+              "southwest" : {
+                 "lat" : 52.2268373697085,
+                 "lng" : 6.898779769708497
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "Huize Indigo",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "place_id" : "ChIJVfKICC8VuEcRVDKvfhmWpfM",
+        "plus_code" : {
+           "compound_code" : "6WH2+72 Enschede, Netherlands",
+           "global_code" : "9F486WH2+72"
+        },
+        "reference" : "ChIJVfKICC8VuEcRVDKvfhmWpfM",
+        "scope" : "GOOGLE",
+        "types" : [ "bar", "point_of_interest", "establishment" ],
+        "vicinity" : "Oldenzaalsestraat 157, Enschede"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 52.2271241,
+              "lng" : 6.878982499999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 52.2284392302915,
+                 "lng" : 6.880295780291501
+              },
+              "southwest" : {
+                 "lat" : 52.22574126970851,
+                 "lng" : 6.877597819708497
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "Empire Lounge",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 3024,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/116931451529460396288\"\u003eEmpire Lounge\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEA8pdW0ZjzCZxm9uakNI9llRZqEmc_j50yXu0_WhKN3K_3VXeHpjgCFGbzFky0LnqT3wwkD4eHBT77WHpqJCEK5rCngxviKN0-wjKDjR5j3s9H6NIN5Im_Gwai-3AL_QntaqspUMcI2EU-p0kS7JXIQr4JzcOP26sZRtUSU6vtosXuF",
+              "width" : 3024
+           }
+        ],
+        "place_id" : "ChIJk230FtITuEcRSG7OXWnsbi0",
+        "plus_code" : {
+           "compound_code" : "6VGH+RH Enschede, Netherlands",
+           "global_code" : "9F486VGH+RH"
+        },
+        "rating" : 4.8,
+        "reference" : "ChIJk230FtITuEcRSG7OXWnsbi0",
+        "scope" : "GOOGLE",
+        "types" : [ "night_club", "bar", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 12,
+        "vicinity" : "Hengelosestraat 170, Enschede"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 52.21196090000001,
+              "lng" : 6.8802892
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 52.21324843029151,
+                 "lng" : 6.881723530291503
+              },
+              "southwest" : {
+                 "lat" : 52.21055046970851,
+                 "lng" : 6.879025569708499
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "Huize Bokkepoot",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 4032,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/100612337564151450649\"\u003eJeroen Nuyts\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBkCVF6gkViWABCqiSHFCOsOE_vR80PEZwG6YW0D_P8jXNw_bGcbOh9yJXFudnHkI6v7lv4y1N4KlDJUbBmDJ4fd5J97YFjBw6h6FUJ4OsTQbEkYwS3wKQXE5qLhMDsdZ18Ho6dVsBd-JqSWvaqLoMJuM63rpswu7hZ298KoyIPv1cE",
+              "width" : 2268
+           }
+        ],
+        "place_id" : "ChIJ41c8XIYTuEcRyz6Qh6Yf-N8",
+        "plus_code" : {
+           "compound_code" : "6V6J+Q4 Enschede, Netherlands",
+           "global_code" : "9F486V6J+Q4"
+        },
+        "rating" : 4.9,
+        "reference" : "ChIJ41c8XIYTuEcRyz6Qh6Yf-N8",
+        "scope" : "GOOGLE",
+        "types" : [ "bar", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 12,
+        "vicinity" : "Haaksbergerstraat 336, Enschede"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 52.2175979,
+              "lng" : 6.872384899999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 52.2188525302915,
+                 "lng" : 6.873732680291503
+              },
+              "southwest" : {
+                 "lat" : 52.2161545697085,
+                 "lng" : 6.871034719708498
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "Sportcafe Pathmos",
+        "place_id" : "ChIJJ56J05ETuEcRIdgAGt8J_O0",
+        "plus_code" : {
+           "compound_code" : "6V9C+2X Enschede, Netherlands",
+           "global_code" : "9F486V9C+2X"
+        },
+        "rating" : 4.5,
+        "reference" : "ChIJJ56J05ETuEcRIdgAGt8J_O0",
+        "scope" : "GOOGLE",
+        "types" : [ "bar", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 4,
+        "vicinity" : "Veilingstraat 20, Enschede"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 52.23196799999999,
+              "lng" : 6.894851000000001
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 52.2331642802915,
+                 "lng" : 6.895842880291503
+              },
+              "southwest" : {
+                 "lat" : 52.2304663197085,
+                 "lng" : 6.893144919708499
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name" : "Gastrobar Bij Rozendaal",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 1333,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/100489942819528704008\"\u003eGastrobar Bij Rozendaal\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEDjcn9XwhqDbcXINCVqkVt4hTDsnl7S87QPHfnY9w7_Gh565P9Fez0vC0AYw7Wm7Z8zT6lsVVQuJ2FKArvELr3vFKDp5xR87RDZkg8yWSjM6FXqDc7Od_2uzT3w1aYIgemzFjn8LCTMca5GbwiLsW4H2twXxI-2DkO3yjbFzQpmuvI8",
+              "width" : 2000
+           }
+        ],
+        "place_id" : "ChIJJeUpBQkUuEcRcp2Ki2H_fXA",
+        "plus_code" : {
+           "compound_code" : "6VJV+QW Enschede, Netherlands",
+           "global_code" : "9F486VJV+QW"
+        },
+        "price_level" : 2,
+        "rating" : 4.3,
+        "reference" : "ChIJJeUpBQkUuEcRcp2Ki2H_fXA",
+        "scope" : "GOOGLE",
+        "types" : [ "restaurant", "bar", "food", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 177,
+        "vicinity" : "Het Rozendaal 10, Enschede"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 52.2204439,
+              "lng" : 6.871484199999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 52.22186258029149,
+                 "lng" : 6.872820430291501
+              },
+              "southwest" : {
+                 "lat" : 52.21916461970849,
+                 "lng" : 6.870122469708496
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "Shyaboi",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "place_id" : "ChIJs8uhrNsTuEcRPBQibce2_vM",
+        "plus_code" : {
+           "compound_code" : "6VCC+5H Enschede, Netherlands",
+           "global_code" : "9F486VCC+5H"
+        },
+        "rating" : 5,
+        "reference" : "ChIJs8uhrNsTuEcRPBQibce2_vM",
+        "scope" : "GOOGLE",
+        "types" : [ "bar", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 8,
+        "vicinity" : "Parkweg 103, Enschede"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 52.21325880000001,
+              "lng" : 6.909561099999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 52.2146116302915,
+                 "lng" : 6.911010980291502
+              },
+              "southwest" : {
+                 "lat" : 52.2119136697085,
+                 "lng" : 6.908313019708498
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "Casa de Lucas",
+        "place_id" : "ChIJ7XhH7h8VuEcRDkO17SODqks",
+        "plus_code" : {
+           "compound_code" : "6W75+8R Enschede, Netherlands",
+           "global_code" : "9F486W75+8R"
+        },
+        "reference" : "ChIJ7XhH7h8VuEcRDkO17SODqks",
+        "scope" : "GOOGLE",
+        "types" : [ "bar", "point_of_interest", "establishment" ],
+        "vicinity" : "Padangstraat 10, Enschede"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 52.21288569999999,
+              "lng" : 6.873252099999998
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 52.2142240302915,
+                 "lng" : 6.874504530291502
+              },
+              "southwest" : {
+                 "lat" : 52.2115260697085,
+                 "lng" : 6.871806569708498
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "Zoep & co",
+        "place_id" : "ChIJSfLdK3MTuEcR4PsmYRp76xg",
+        "plus_code" : {
+           "compound_code" : "6V7F+58 Enschede, Netherlands",
+           "global_code" : "9F486V7F+58"
+        },
+        "reference" : "ChIJSfLdK3MTuEcR4PsmYRp76xg",
+        "scope" : "GOOGLE",
+        "types" : [ "bar", "point_of_interest", "establishment" ],
+        "vicinity" : "Dennenweg 130, Enschede"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 52.2142741,
+              "lng" : 6.8714985
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 52.2156230802915,
+                 "lng" : 6.872847480291503
+              },
+              "southwest" : {
+                 "lat" : 52.2129251197085,
+                 "lng" : 6.870149519708498
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "Dream lounge",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 3840,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/100703996775843629689\"\u003eDream Lounge\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBMX-Gdnhmsh6DRoyZnjs-VH8CHD6EBqmTiPld7vRasv3sKGzZWWraTkGdQkpj4RiTK-pyIANsAVs5fRT1-cMCmhnZz1GuNt95UftzUlXSYfcpWTgJ9O6V_OGFeY7YwpQbqT4-ibJCaFqSC0hEuhPo43gvC1Z2_x6BBi6ds2vsbwjn1",
+              "width" : 2160
+           }
+        ],
+        "place_id" : "ChIJuzmJrpoTuEcRubC0yqWh-KM",
+        "plus_code" : {
+           "compound_code" : "6V7C+PH Enschede, Netherlands",
+           "global_code" : "9F486V7C+PH"
+        },
+        "price_level" : 2,
+        "rating" : 4.5,
+        "reference" : "ChIJuzmJrpoTuEcRubC0yqWh-KM",
+        "scope" : "GOOGLE",
+        "types" : [ "night_club", "bar", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 51,
+        "vicinity" : "Zweringweg 20, Enschede"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 52.2054549,
+              "lng" : 6.879386299999998
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 52.2069450302915,
+                 "lng" : 6.8809313802915
+              },
+              "southwest" : {
+                 "lat" : 52.2042470697085,
+                 "lng" : 6.878233419708495
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name" : "Masada",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 809,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/111045183994079199761\"\u003eMasada\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEB43QUQnFIVW33PjOOqEp-S6a0m1lXm_vSdl2RKJsF_cCUhDAQjWIMBXKz4sqK2qw6n-kipojKeXP67MxTccTJPXLHw5jKdzoA0_-Uwe9HdX6DtgijtkmH3mYXWD_lV01d1a9CMpTmdO9TjDkiGIwBY-XPKME8bMpzRMX20BdcrEKv-",
+              "width" : 1440
+           }
+        ],
+        "place_id" : "ChIJa95KsoETuEcRZ9b4l13KVkQ",
+        "plus_code" : {
+           "compound_code" : "6V4H+5Q Enschede, Netherlands",
+           "global_code" : "9F486V4H+5Q"
+        },
+        "rating" : 3.8,
+        "reference" : "ChIJa95KsoETuEcRZ9b4l13KVkQ",
+        "scope" : "GOOGLE",
+        "types" : [
+           "meal_delivery",
+           "meal_takeaway",
+           "bar",
+           "restaurant",
+           "food",
+           "point_of_interest",
+           "establishment"
+        ],
+        "user_ratings_total" : 147,
+        "vicinity" : "Wethouder Gerbertstraat 61, Enschede"
+     }
     ],
-    "status": "OK"
-}
+    "status" : "OK"
+ }
